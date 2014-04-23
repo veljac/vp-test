@@ -1,0 +1,15 @@
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\obj\Debug\dodaj.csprojResolveAssemblyReference.cache
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\dodaj.exe.config
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\dodaj.exe
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\dodaj.pdb
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\Nfield.SDK.dll
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\Ninject.dll
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\Nfield.SDK.pdb
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\Ninject.pdb
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\Ninject.xml
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\obj\Debug\dodaj.exe
+C:\Users\vpetrovic\Downloads\Nfield-SDK-development\Nfield-SDK-development\dodaj\obj\Debug\dodaj.pdb
