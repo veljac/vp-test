@@ -1,11 +1,13 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 using Nfield.Infrastructure;
 using Nfield.Models;
 using Nfield.Services;
+using Nfield.Extensions;
 using Ninject;
 
 namespace dodaj
@@ -14,58 +16,108 @@ namespace dodaj
     {
         static void Main(string[] args)
         {
-            // Example of using the Nfield SDK with a user defined IoC container.
-            // In most cases the IoC container is created and managed through the application. 
             using (IKernel kernel = new StandardKernel())
             {
                 InitializeNfield(kernel);
 
-                const string serverUrl = "http://api.nfieldbeta.com/v1";
+                //const string serverUrl = "http://api.nfieldbeta.com/v1";
+                const string serverUrl = "http://api.nfieldmr.com/v1";
 
                 // First step is to get an INfieldConnection which provides services used for data access and manipulation. 
                 INfieldConnection connection = NfieldConnectionFactory.Create(new Uri(serverUrl));
 
                 // User must sign in to the Nfield server with the appropriate credentials prior to using any of the services.
 
-                connection.SignInAsync("hendal beta", "veljko", "Klagant61").Wait();
+                connection.SignInAsync("hendal", "veljko", "Klagant61").Wait();
 
-                // Request the Interviewers service to manage interviewers.
-                INfieldInterviewersService interviewersService = connection.GetService<INfieldInterviewersService>();
+                // Request the Interviewers service to manage dodajs.
+                INfieldInterviewersService dodajsService = connection.GetService<INfieldInterviewersService>();
+                INfieldFieldworkOfficesService foService = connection.GetService<INfieldFieldworkOfficesService>();
+                INfieldSurveysService surveyService = connection.GetService<INfieldSurveysService>();
 
                 // Create a new manager to perform the operations on the service.
-                NfieldInterviewersManagement interviewersManager = new NfieldInterviewersManagement(interviewersService);
+                NfieldInterviewersManagement dodajsManager = new NfieldInterviewersManagement(dodajsService);
+                NfieldSamplingPointManagement samplingPointsManager = new NfieldSamplingPointManagement(surveyService);
+                NfieldFieldworkOfficesManagement foManager = new NfieldFieldworkOfficesManagement(foService);
+                
+                IEnumerable<Interviewer> allInterviewers = dodajsService.Query().ToList();
+                var lista = allInterviewers.ToArray();
 
-                // This sample shows various ways of performing synchronous and asynchronous operations on Interviewers.
-                var t1 = interviewersManager.AddInterviewerAsync();
-                var interviewer2 = interviewersManager.AddInterviewer();
+                IEnumerable<FieldworkOffice> uredi = foManager.QueryForOfficesAsync();
+                var lista_ureda = uredi.ToArray();
 
-                // Update the interviewer name asynchronously
-                interviewer2.FirstName = "Harry";
-                var t2 = interviewersManager.UpdateInterviewerAsync(interviewer2);
+                IEnumerable<SamplingPoint> allSamplingPoints = surveyService.SamplingPointsQuery("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6").ToList();
+                //IEnumerable<SamplingPoint> allSamplingPoints = surveyService.SamplingPointsQuery("ce923d5d-79b6-47d2-b377-8f42174dee65").ToList();
+                var allPnts = allSamplingPoints.ToArray();
 
-                // Wait for all pending tasks to finish
-                Task.WaitAll(t1, t2);
+                int i;
 
-                // Extract the results from the asynchronous tasks
-                interviewer2 = t2.Result;
-                var interviewer1 = t1.Result;
+                StreamReader spwfo = new StreamReader(@"C:\Users\vpetrovic\Documents\spwfo.txt");
+                for (i=0; i<275; i++)
+                {
+                    var tokens = spwfo.ReadLine().Split('\t');
+                    var mySamplingPoint = new SamplingPoint
+                    {
+                        SamplingPointId = tokens[0],
+                        FieldworkOfficeId = tokens[1],
+                        Name = tokens[2],
+                        GroupId = tokens[3],
+                    };
+                    //samplingPointsManager.AddSamplingPoint("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6", mySamplingPoint);
+                    samplingPointsManager.UpdateSamplingPoint("655059d2-0abb-4716-aaea-34549ecd6882", mySamplingPoint);
+                    Console.WriteLine(i);
+                }
 
-                // Update interviewer name synchronous
-                interviewer1.EmailAddress = interviewer1.EmailAddress + "changed";
-                interviewer1.FirstName = "Bob";
-                interviewer1 = interviewersManager.UpdateInterviewer(interviewer1);
+                var mydSamplingPoint = new SamplingPoint
+                {
+                    SamplingPointId = "0813999",
+                    Name = "Test_xx",
+                };
+                //samplingPointsManager.AddSamplingPoint("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6", mySamplingPoint);
+                //samplingPointsManager.DeleteSamplingPoint("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6", mydSamplingPoint);
+                //samplingPointsManager.UpdateSamplingPoint("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6", mySamplingPoint);
 
-                // Change password for interviewer, asynchronously and synchronously
-                var t3 = interviewersManager.ChangePasswordAsync(interviewer2, "ab12345");
-                interviewersManager.ChangePassword(interviewer1, "12345ab");
+                Console.WriteLine("Ukupno anketara: {0}", allInterviewers.Count());
+                Console.WriteLine("Ukupno ureda: {0}", lista_ureda.Count());
+                Console.WriteLine("Ukupno startnih točaka: {0}", allPnts.Count());
 
-                t3.Wait();
+                //StreamWriter datoteka = new StreamWriter(@"C:\Users\vpetrovic\Documents\sp2.txt");
+                //datoteka.WriteLine("REGIONALNI UREDI:");
+                for (i = 0; i < lista_ureda.Count(); i++)
+                {
+                    //datoteka.WriteLine("{0}|{1}", lista_ureda[i].OfficeId, lista_ureda[i].OfficeName);
+                    //Console.WriteLine("{0}|{1}", lista_ureda[i].OfficeId, lista_ureda[i].OfficeName);
+                }
+
+                //datoteka.WriteLine("STARTNE TOČKE:");
+                for (i = 0; i < allSamplingPoints.Count(); i++)
+                {
+                    //datoteka.WriteLine("{0}|{1}|{2}|{3}|{4}", allPnts[i].SamplingPointId, allPnts[i].FieldworkOfficeId, allPnts[i].Name, allPnts[i].GroupId, allPnts[i].Kind);
+                    //Console.WriteLine("{0}|{1}|{2}|{3}|{4}", allPnts[i].SamplingPointId, allPnts[i].Name, allPnts[i].Description, allPnts[i].FieldworkOfficeId, allPnts[i].Kind);
+                }
+
+
+                for (i = 503; i < 882; i++)
+                {
+                //    IEnumerable<Interviewer> tajdodaj = dodajsService.Query().Where(dodaj => string.Equals(dodaj.UserName,"int"+i)).ToList();
+                //    var talista = tajdodaj.ToArray();
+                //    Interviewer mojint = talista[0];
+                //    dodajsService.Remove(mojint);
+                //    Console.WriteLine("{0}", "int" + i);
+                }
+                for (i = 5001; i < 5050; i++)
+                {
+                    //Console.WriteLine("{0}", "int" + i);
+                    Interviewer dodaj = new Interviewer
+                    {
+                        UserName = "int" + i,
+                        Password = "capi" + i
+                    };
+                    //dodajsService.Add(dodaj);
+                }
             }
         }
 
-        /// <summary>
-        /// Example of initializing the SDK with Ninject as the IoC container.
-        /// </summary>
         private static void InitializeNfield(IKernel kernel)
         {
             DependencyResolver.Register(type => kernel.Get(type), type => kernel.GetAll(type));
@@ -74,5 +126,6 @@ namespace dodaj
                                             (bind, resolve) => kernel.Bind(bind).To(resolve).InSingletonScope(),
                                             (bind, resolve) => kernel.Bind(bind).ToConstant(resolve));
         }
+
     }
 }
