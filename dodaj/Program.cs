@@ -46,42 +46,47 @@ namespace dodaj
                 IEnumerable<FieldworkOffice> uredi = foManager.QueryForOfficesAsync();
                 var lista_ureda = uredi.ToArray();
 
-                IEnumerable<SamplingPoint> allSamplingPoints = surveyService.SamplingPointsQuery("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6").ToList();
+                IEnumerable<SamplingPoint> allSamplingPoints = surveyService.SamplingPointsQuery("58e62847-57c3-4e35-ac82-5b9aba568807").ToList();
                 //IEnumerable<SamplingPoint> allSamplingPoints = surveyService.SamplingPointsQuery("ce923d5d-79b6-47d2-b377-8f42174dee65").ToList();
                 var allPnts = allSamplingPoints.ToArray();
 
                 int i;
 
-                StreamReader spwfo = new StreamReader(@"C:\Users\vpetrovic\Documents\spwfo.txt");
+                //StreamReader spwfo = new StreamReader(@"data\spwfo.txt");
                 for (i=0; i<275; i++)
                 {
-                    var tokens = spwfo.ReadLine().Split('\t');
-                    var mySamplingPoint = new SamplingPoint
-                    {
-                        SamplingPointId = tokens[0],
-                        FieldworkOfficeId = tokens[1],
-                        Name = tokens[2],
-                        GroupId = tokens[3],
-                    };
+                    //var tokens = spwfo.ReadLine().Split('\t');
+                    //var mySamplingPoint = new SamplingPoint
+                    //{
+                    //    SamplingPointId = tokens[0],
+                    //    FieldworkOfficeId = tokens[1],
+                    //    Name = tokens[2],
+                    //    GroupId = tokens[3],
+                    //};
                     //samplingPointsManager.AddSamplingPoint("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6", mySamplingPoint);
-                    samplingPointsManager.UpdateSamplingPoint("655059d2-0abb-4716-aaea-34549ecd6882", mySamplingPoint);
-                    Console.WriteLine(i);
+                    //samplingPointsManager.UpdateSamplingPoint("655059d2-0abb-4716-aaea-34549ecd6882", mySamplingPoint);
+                    //Console.WriteLine(i);
                 }
-
-                var mydSamplingPoint = new SamplingPoint
+                SamplingPointKind spk = 0;
+                var mySamplingPoint = new SamplingPoint
                 {
-                    SamplingPointId = "0813999",
-                    Name = "Test_xx",
+                    SamplingPointId = "813031",
+                    Description = "Survey name: EB81.3; Start address: Ulica Nikole Tesle 7, 23000, Zadar; GPS: 44.1213173,15.235273099999972",
+                    Name = "Zadar - Ulica Nikole Tesle 7",
+                    FieldworkOfficeId = "88a39030-c2f0-40b4-9c4e-74abe9bce433",
+                    Stratum = "HR03U1",
+                    GroupId = "12",
+                    Kind = spk,
                 };
                 //samplingPointsManager.AddSamplingPoint("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6", mySamplingPoint);
                 //samplingPointsManager.DeleteSamplingPoint("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6", mydSamplingPoint);
-                //samplingPointsManager.UpdateSamplingPoint("678726fe-5900-47a3-b1b6-7c8b2a1c7ae6", mySamplingPoint);
+                samplingPointsManager.UpdateSamplingPoint("58e62847-57c3-4e35-ac82-5b9aba568807", mySamplingPoint);
 
                 Console.WriteLine("Ukupno anketara: {0}", allInterviewers.Count());
                 Console.WriteLine("Ukupno ureda: {0}", lista_ureda.Count());
                 Console.WriteLine("Ukupno startnih točaka: {0}", allPnts.Count());
 
-                //StreamWriter datoteka = new StreamWriter(@"C:\Users\vpetrovic\Documents\sp2.txt");
+                StreamWriter datoteka = new StreamWriter(@"..\..\data\sp3.txt");
                 //datoteka.WriteLine("REGIONALNI UREDI:");
                 for (i = 0; i < lista_ureda.Count(); i++)
                 {
@@ -89,11 +94,11 @@ namespace dodaj
                     //Console.WriteLine("{0}|{1}", lista_ureda[i].OfficeId, lista_ureda[i].OfficeName);
                 }
 
-                //datoteka.WriteLine("STARTNE TOČKE:");
+                datoteka.WriteLine("STARTNE TOČKE:");
                 for (i = 0; i < allSamplingPoints.Count(); i++)
                 {
-                    //datoteka.WriteLine("{0}|{1}|{2}|{3}|{4}", allPnts[i].SamplingPointId, allPnts[i].FieldworkOfficeId, allPnts[i].Name, allPnts[i].GroupId, allPnts[i].Kind);
-                    //Console.WriteLine("{0}|{1}|{2}|{3}|{4}", allPnts[i].SamplingPointId, allPnts[i].Name, allPnts[i].Description, allPnts[i].FieldworkOfficeId, allPnts[i].Kind);
+                    datoteka.WriteLine("{0}|{1}|{2}|{3}|{4}|{5}|{6}", allPnts[i].SamplingPointId, allPnts[i].Description, allPnts[i].Stratum, allPnts[i].FieldworkOfficeId, allPnts[i].Name, allPnts[i].GroupId, allPnts[i].Kind);
+                    Console.WriteLine("{0}|{1}|{2}|{3}|{4}", allPnts[i].SamplingPointId, allPnts[i].Name, allPnts[i].Description, allPnts[i].FieldworkOfficeId, allPnts[i].Kind);
                 }
 
 

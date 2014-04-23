@@ -1,0 +1,446 @@
+STARTNE TOČKE:
+0813999|63a5bd6b-eb2b-41c4-b696-923fae594b86|Test_xx||Regular
+813001|63a5bd6b-eb2b-41c4-b696-923fae594b86|Čavle - Podrvanj|1|Regular
+813002|63a5bd6b-eb2b-41c4-b696-923fae594b86|Čavle - Podčudnič|1|Regular
+813003|63a5bd6b-eb2b-41c4-b696-923fae594b86|Čavle - Čavle|1|Regular
+813004|63a5bd6b-eb2b-41c4-b696-923fae594b86|Bakar - Bakarac|2|Regular
+813005|63a5bd6b-eb2b-41c4-b696-923fae594b86|Bakar - Bakarac|2|Regular
+813006|63a5bd6b-eb2b-41c4-b696-923fae594b86|Bakar - Bakarac|2|Regular
+813007|63a5bd6b-eb2b-41c4-b696-923fae594b86|Kostrena|3|Regular
+813008|63a5bd6b-eb2b-41c4-b696-923fae594b86|Kostrena|3|Regular
+813009|63a5bd6b-eb2b-41c4-b696-923fae594b86|Opatija - Ulica Feliksa Perišića 5|4|Regular
+813010|63a5bd6b-eb2b-41c4-b696-923fae594b86|Opatija - Varljenska cesta 7|4|Regular
+813011||Viškovo - Ulica Baretićevo 16|5|Regular
+813012||Viškovo - Straža 41|5|Regular
+813013||Rijeka - Ulica Vladivoja i Milivoja Lenca 35|6|Regular
+813014||Rijeka - Pletenci 40|6|Regular
+813015||Rijeka - Ulica Zametskog Korena 14|6|Regular
+813016||Rijeka - Ulica Milice Jadranić 17|6|Regular
+813017||Rijeka - Zagrebačka ulica 20|7|Regular
+813018||Rijeka - Ulica Ivana Grohovca 2|7|Regular
+813019||Rijeka - Veslarska ulica 5|7|Regular
+813020||Rijeka - Korzo 8C|7|Regular
+813021||Otočac|8|Regular
+813022||Otočac|8|Regular
+813023||Otočac|8|Regular
+813024||Preko - Ulica Gaj|9|Regular
+813025||Preko - Ulica Merikanica|9|Regular
+813026||Preko - Fortoška ulica|9|Regular
+813027|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Privlaka|11|Regular
+813028||Privlaka|11|Regular
+813029||Privlaka|11|Regular
+813030||Privlaka|11|Regular
+813031||Zadar - Ulica Nikole Tesle 7|12|Regular
+813032||Zadar - Ulica Šime Starčevića 2|12|Regular
+813033|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Zadar - Privlačka ulica 16|12|Regular
+813034||Zadar - Ulica Ljudevita Gaja 13|12|Regular
+813035||Skradin - D56|13|Regular
+813036||Skradin - D56|13|Regular
+813037||Skradin - D56|13|Regular
+813038||Šibenik - Ulica Antuna Gustava Matoša|14|Regular
+813039||Šibenik - Perkovački put 6|14|Regular
+813040||Šibenik - Ulica kralja Zvonimira 40|15|Regular
+813041||Šibenik - Ulica Mihe Klaića 3|15|Regular
+813042||Hrvace|16|Regular
+813043||Hrvace|16|Regular
+813044||Hrvace|16|Regular
+813045||Trilj - Jabuka|17|Regular
+813046||Trilj - Jabuka|17|Regular
+813047||Trilj - Jabuka|17|Regular
+813048||Supetar|18|Regular
+813049||Supetar|18|Regular
+813050||Klis|19|Regular
+813051||Klis|19|Regular
+813052||Podstrana - Blato|20|Regular
+813053||Podstrana - Ulica Gospe u siti|20|Regular
+813054||Kaštela - Potok Strabežnik 20|21|Regular
+813055||Kaštela - Put bunarića|21|Regular
+813056||Trogir - D8|22|Regular
+813057||Trogir - D8|22|Regular
+813058||Solin - Put Majdana|23|Regular
+813059||Solin - Kliški put|23|Regular
+813060||Split - Mosećka ulica 126|24|Regular
+813061||Split - Vrlička ulica 2A|24|Regular
+813062||Split - Ulica Vjekoslava Paraća 25|24|Regular
+813063||Split - Velebitska ulica 46|24|Regular
+813064||Split - Ulica Svetog Mihovila|25|Regular
+813065||Split - Krilava ulica|25|Regular
+813066||Split - Mali put|25|Regular
+813067||Split - Put Vidovače|25|Regular
+813068||Split|26|Regular
+813069||Split|26|Regular
+813070||Split|26|Regular
+813071||Split|26|Regular
+813072||Vrsar  Orsera|27|Regular
+813073||Vrsar  Orsera|27|Regular
+813074||Vrsar  Orsera|27|Regular
+813075||Labin - Salakovci|28|Regular
+813076||Labin - Salakovci|28|Regular
+813077||Vodnjan  Dignano - Fažanska cesta 20|29|Regular
+813078||Vodnjan  Dignano - Ulica San Rocco 38C|29|Regular
+813079||Poreč  Parenzo - Jasenova ulica|30|Regular
+813080||Poreč  Parenzo|30|Regular
+813081||Pula  Pola - Vergerijeva ulica 13|31|Regular
+813082||Pula  Pola - Bastianova ulica 6|31|Regular
+813083||Pula  Pola - Prilaz Plovana Mikule 4|31|Regular
+813084||Pula  Pola - Ulica Leonarda da Vincija 1|31|Regular
+813085||Konavle|32|Regular
+813086||Konavle|32|Regular
+813087||Konavle|32|Regular
+813088||Opuzen|33|Regular
+813089||Opuzen|33|Regular
+813090||Dubrovnik|34|Regular
+813091||Dubrovnik|34|Regular
+813092||Gornji Grad Medveščak - Ulica Milana Rešetara 36-38|35|Regular
+813093||Gornji Grad Medveščak - Ulica Jurja Barakovića 14|35|Regular
+813094||Gornji Grad Medveščak - Ulica Slavka Batušića 25|35|Regular
+813095||Gornji Grad Medveščak - Kotarnica ulica 14|35|Regular
+813096||Donja Dubrava - Hrnetička ulica 22|36|Regular
+813097||Donja Dubrava - Zubovačka ulica 4|36|Regular
+813098||Donja Dubrava - Malešnica ulica 27|36|Regular
+813099||Donja Dubrava - Ulica Malešnica III 6|36|Regular
+813100||Črnomerec - Ulica Donje Vrapče 45|37|Regular
+813101||Črnomerec - Debanićeva ulica 1|37|Regular
+813102||Črnomerec - Majurečki put 22|37|Regular
+813103||Črnomerec - Domagovićka ulica 1|37|Regular
+813104||Črnomerec - Demerje|38|Regular
+813105||Črnomerec - Demerje|38|Regular
+813106||Črnomerec - Demerje|38|Regular
+813107||Črnomerec - Demerje|38|Regular
+813108||Trnje - Posedarska ulica 102|39|Regular
+813109||Trnje - Utinjska ulica odvojak I 13|39|Regular
+813110||Trnje - Glogovečka ulica 5|39|Regular
+813111||Trnje - Malnarova ulica odvojak IV 4|39|Regular
+813112||Trešnjevka sjever - Livanjska ulica 7|40|Regular
+813113||Trešnjevka sjever - Gvozdanska ulica 26|40|Regular
+813114||Trešnjevka sjever - Stolačka ulica 13|40|Regular
+813115||Trešnjevka sjever - Mošćenička ulica 5|40|Regular
+813116||Trešnjevka sjever - Dugoselska ulica 29|41|Regular
+813117||Trešnjevka sjever - Šaškovečka ulica 29|41|Regular
+813118||Trešnjevka sjever - Heinzelova ulica 69|41|Regular
+813119||Trešnjevka sjever - Andrilovečka ulica 28|41|Regular
+813120||Novi Zagreb zapad - Degidovečka ulica 19|42|Regular
+813121||Novi Zagreb zapad - Vinkuranska ulica 7|42|Regular
+813122||Novi Zagreb zapad - Dravska ulica 12|42|Regular
+813123||Novi Zagreb zapad - Žuti dol 18|42|Regular
+813124||Novi Zagreb zapad - Ulica Trnava I 39|43|Regular
+813125||Novi Zagreb zapad - Česmina ulica 22|43|Regular
+813126||Novi Zagreb zapad - Bagrema ulica 18|43|Regular
+813127||Novi Zagreb zapad - Vinodolska ulica 87|43|Regular
+813128||Gornja Dubrava - Ulica Ivice Lovinčića 1|44|Regular
+813129||Gornja Dubrava - Krapinska ulica 13b|44|Regular
+813130||Gornja Dubrava - Ulica Ignaca Puđaka odvojak I 10|44|Regular
+813131||Gornja Dubrava - Ulica Šime Ljubića 20|44|Regular
+813132||Trešnjevka jug - Ulica Novački Vidikovac 2|45|Regular
+813133||Trešnjevka jug - Cuglini ulica 18|45|Regular
+813134||Trešnjevka jug - Severi ulica 12A|45|Regular
+813135||Trešnjevka jug - Dotršćinska ulica 74|45|Regular
+813136||Trešnjevka jug - Durmitorska ulica 23|46|Regular
+813137||Trešnjevka jug - Mlinovi ulica 116|46|Regular
+813138||Trešnjevka jug - Gornje Prekrižje 80A|46|Regular
+813139||Trešnjevka jug - Ulica Šestinski vijenac 52|46|Regular
+813140||Sesvete - Vinogradska ulica 31-33|47|Regular
+813141||Sesvete - Poljaki ulica odvojak 6|47|Regular
+813142||Sesvete - Prigorska 19|47|Regular
+813143||Sesvete - Ulica Kuntića Đure 20|47|Regular
+813144||Klinča Sela - Repišće 34A|48|Regular
+813145||Klinča Sela - Repišće 70-71|48|Regular
+813146||Klinča Sela - Repišće 57|48|Regular
+813147||Dubrava|49|Regular
+813148||Dubrava|49|Regular
+813149||Dubrava|49|Regular
+813150||Bistra - Podgorska ulica 79|50|Regular
+813151||Bistra - Podgorska ulica 127|50|Regular
+813152||Samobor - Ulica Marovići II 10|51|Regular
+813153||Samobor - Karlovačka cesta 128|51|Regular
+813154||Sveta Nedelja - Ulica Augusta Šenoe 7|52|Regular
+813155||Sveta Nedelja - Stubička ulica 6|52|Regular
+813156||Dugo Selo - Šaškovečka ulica 124|53|Regular
+813157||Dugo Selo - Martinska ulica 110|53|Regular
+813158||Zaprešić - Ulica bana Josipa Jelačića 43|54|Regular
+813159||Zaprešić - Ulica Ivana Mažuranića 27|54|Regular
+813160||Velika Gorica - Prvonožina 1|55|Regular
+813161||Velika Gorica - Prvonožina 1|55|Regular
+813162||Velika Gorica - Prvonožina 2|55|Regular
+813163||Velika Gorica - Prvonožina 15|55|Regular
+813164||Konjščina - Jertovec 182|56|Regular
+813165||Konjščina - Jertovec 203B|56|Regular
+813166||Konjščina - Jertovec 182A|56|Regular
+813167||Sveti Križ Začretje - Gornja Pačetina 36|57|Regular
+813168||Sveti Križ Začretje - Gornja Pačetina 31|57|Regular
+813169||Zabok - Martinišće 16-25|58|Regular
+813170||Zabok - Martinišće 44|58|Regular
+813171||Zabok - Hum Zabočki 71B|59|Regular
+813172||Zabok - Hum Zabočki 1C|59|Regular
+813173||Jalžabet|60|Regular
+813174||Jalžabet|60|Regular
+813175||Jalžabet|60|Regular
+813176||Gornji Kneginec - Kučanska ulica 30|61|Regular
+813177||Gornji Kneginec - Kučanska ulica 24|61|Regular
+813178||Lepoglava - Kaniža 44|62|Regular
+813179||Lepoglava - Kaniža 35B|62|Regular
+813180||Sračinec - Ulica Ljudevita Gaja 16|63|Regular
+813181||Sračinec - Ulica kralja Tomislava 8|63|Regular
+813182||Varaždin - Radnička ulica 97|64|Regular
+813183||Varaždin - Ulica kralja Tomislava 13|64|Regular
+813184||Peteranec - Selnica Podravska 9|65|Regular
+813185||Peteranec - Selnica Podravska 864|65|Regular
+813186||Peteranec|65|Regular
+813187||Križevci|66|Regular
+813188||Križevci|66|Regular
+813189||Koprivnica - Starogradska ulica 144|67|Regular
+813190||Koprivnica - Ulica kraljice Jelene 10|67|Regular
+813191||Mala Subotica - Ulica Josipa Slavenskog 52A|68|Regular
+813192||Mala Subotica - Grabanica ulica 30A|68|Regular
+813193||Nedelišće - Trnovec 68A|69|Regular
+813194||Nedelišće - Ulica Miroslava Krleže 8|69|Regular
+813195||Čakovec - Ulica Josipa Bedekovića 40|70|Regular
+813196||Čakovec - Budina ulica 4|70|Regular
+813197||Čakovec - Ulica kralja Zvonimira 12A|71|Regular
+813198||Čakovec - Ulica Stjepana Bencea 2|71|Regular
+813199||Rovišće - Podgorci 90B|72|Regular
+813200||Rovišće - Kobasičari 140A|72|Regular
+813201||Rovišće - Kobasičari 55|72|Regular
+813202||Đulovac - Končanica 30|73|Regular
+813203||Đulovac - Dioš 34|73|Regular
+813204||Bjelovar - Ulica don Frane Bulića 26|74|Regular
+813205||Bjelovar - Ulica Bogoslava Šuleka 6|74|Regular
+813206||Čačinci|75|Regular
+813207||Čačinci|75|Regular
+813208||Slatina|76|Regular
+813209||Slatina|76|Regular
+813210||Virovitica - Rezovački put 33|77|Regular
+813211||Virovitica - Podravska ulica 92|77|Regular
+813212||Brestovac|78|Regular
+813213||Brestovac|78|Regular
+813214||Brestovac|78|Regular
+813215||Požega - Ulica Vilima Korajca 27|79|Regular
+813216||Požega - Ulica Eugena Kvaternika 100|79|Regular
+813217||Dragalić|80|Regular
+813218||Dragalić|80|Regular
+813219||Dragalić|80|Regular
+813220||Nova Gradiška - Ulica kralja Dmitra Zvonimira 263|81|Regular
+813221||Nova Gradiška - Posavska ulica 7|81|Regular
+813222||Slavonski Brod - Ulica doktor Franje Tuđmana|82|Regular
+813223||Slavonski Brod - Požeška ulica 164|82|Regular
+813224||Slavonski Brod - Ulica doktor Franje Tuđmana|82|Regular
+813225||Slavonski Brod - Ulica doktor Franje Tuđmana|82|Regular
+813226||Čeminac - Vjetrovita ulica 35|83|Regular
+813227||Čeminac - Vjetrovita ulica 3|83|Regular
+813228||Čeminac - Kolodvorska ulica 48|83|Regular
+813229||Antunovac - Ulica Hrvatske Republike 6|84|Regular
+813230||Antunovac - Ulica Ante Starčevića 1|84|Regular
+813231||Bilje|85|Regular
+813232||Bilje|85|Regular
+813233||Beli Manastir - Ulica dr. Ante Starčevića 7|86|Regular
+813234||Beli Manastir - Zagrebačka ulica 15|86|Regular
+813235||Đakovo - Certiše ulica 1|87|Regular
+813236||Đakovo - Ulica Otona Ivekovića 20|87|Regular
+813237||Osijek - Ulica Jovana Gojkovića 21|88|Regular
+813238||Osijek - Ulica Mije Kišpatića 63|88|Regular
+813239|284bdb86-42fb-4bb2-9a77-2bc3e52dc580|Osijek - Crkvena ulica 45|88|Regular
+813240||Osijek - Grmić ulica|88|Regular
+813241||Osijek - Prenjska ulica 6|89|Regular
+813242||Osijek - Ulica Antuna Kanižlića 58|89|Regular
+813243||Osijek - Kozjačka ulica 2A|89|Regular
+813244||Osijek - Plješivička ulica 52|89|Regular
+813245||Stari Jankovci|90|Regular
+813246||Stari Jankovci|90|Regular
+813247||Stari Jankovci|90|Regular
+813248||Andrijaševci - Mala Cerna 94|91|Regular
+813249||Andrijaševci - Mala Cerna 43|91|Regular
+813250||Ivankovo - Ulica Gorjani 68|92|Regular
+813251||Ivankovo - Ulica Rojčani|92|Regular
+813252||Županja - Štitarska ulica 157|93|Regular
+813253||Županja - Štitarska ulica 74|93|Regular
+813254||Vinkovci - Ulica kralja Krešimira 21|94|Regular
+813255||Vinkovci - Slavija ulica 98|94|Regular
+813256||Ozalj - Ulica Slave Raškaj 15|95|Regular
+813257||Ozalj - Vrhovački Sopot 26|95|Regular
+813258||Ozalj - Kupska ulica 14|95|Regular
+813259||Draganić - Zagrebačka ulica|96|Regular
+813260||Draganić - D1|96|Regular
+813261||Karlovac - Goljaki Turanjski 80A|97|Regular
+813262||Karlovac - Goljaki Turanjski 39A|97|Regular
+813263||Karlovac - Goljaki Turanjski 72A|97|Regular
+813264||Karlovac - Goljaki Turanjski 40|97|Regular
+813265||Sunja|98|Regular
+813266||Sunja|98|Regular
+813267||Sunja|98|Regular
+813268||Novska|99|Regular
+813269||Novska|99|Regular
+813270||Kutina - Ulica Kutinska Lipa 126|100|Regular
+813271|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Kutina|100|Regular
+813272|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Sisak - Obala Tome Bakača Erdoedyja 31|101|Regular
+813273||Sisak - Ulica Ive Rukavine Siđe 67|101|Regular
+813274||Sisak - Ulica Capraške Poljane|102|Regular
+813275||Sisak - Ulica Rade Končara 29|102|Regular
+813276||Crikvenica - Goranska ulica|103|Spare
+813277||Crikvenica - Goranska ulica|103|Spare
+813278||Malinska Dubašnica - Strilčići 3|104|Spare
+813279||Malinska Dubašnica|104|Spare
+813280||Malinska Dubašnica - Sabljići 8|104|Spare
+813281||Skrad|106|Spare
+813282||Skrad|106|Spare
+813283||Skrad|106|Spare
+813284||Mali Lošinj|108|Spare
+813285||Mali Lošinj|108|Spare
+813286||Delnice - Grivac 15|109|Spare
+813287||Delnice - Grivac 1|109|Spare
+813288||Krk|110|Spare
+813289||Krk|110|Spare
+813290||Dugi Rat - D8|113|Spare
+813291||Dugi Rat - Sita ulica|113|Spare
+813292||Brela|114|Spare
+813293||Brela|114|Spare
+813294||Brela|114|Spare
+813295||Dugopolje|116|Spare
+813296||Dugopolje|116|Spare
+813297||Imotski|117|Spare
+813298||Imotski|117|Spare
+813299||Šestanovac|118|Spare
+813300||Šestanovac|118|Spare
+813301||Šestanovac|118|Spare
+813302||Jelsa|119|Spare
+813303||Jelsa|119|Spare
+813304||Jelsa|119|Spare
+813305||Muć|120|Spare
+813306||Muć|120|Spare
+813307||Muć|120|Spare
+813308||Karojba|121|Spare
+813309||Karojba|121|Spare
+813310||Karojba|121|Spare
+813311||Gračišće|123|Spare
+813312||Gračišće|123|Spare
+813313||Gračišće|123|Spare
+813314||Višnjan  Visignano|124|Spare
+813315||Višnjan  Visignano|124|Spare
+813316||Višnjan  Visignano|124|Spare
+813317||Umag  Umago|125|Spare
+813318||Umag  Umago|125|Spare
+813319||Orebić - D414|126|Spare
+813320||Orebić - D414|126|Spare
+813321||Orebić - D414|126|Spare
+813322||Stupnik - Ulica Svetog Benedikta|133|Spare
+813323||Stupnik - Gornjostupnička|133|Spare
+813324||Jakovlje - Ulica Svete Doroteje|134|Spare
+813325||Jakovlje|134|Spare
+813326||Brdovec - Dubravička ulica 2|135|Spare
+813327||Brdovec - Ulica Ivana Štrbulca 18|135|Spare
+813328||Gradec|136|Spare
+813329||Gradec|136|Spare
+813330||Gradec|136|Spare
+813331||Križ - Širinec 85|137|Spare
+813332||Križ - Širinec 14|137|Spare
+813333||Križ - Širinec 23|137|Spare
+813334||Pisarovina - Jamnica Pisarovinska 11|138|Spare
+813335||Pisarovina - Jamnica Pisarovinska 5H|138|Spare
+813336||Pisarovina - Jamnica Pisarovinska 12|138|Spare
+813337||Vrbovec - Dijaneš 50|139|Spare
+813338||Vrbovec - Dijaneš 9|139|Spare
+813339||Vrbovec - Dijaneš 68|139|Spare
+813340||Zagorska Sela - Ulica Harina Zlaka 8|140|Spare
+813341||Zagorska Sela - Ulica Harina Zlaka 15A|140|Spare
+813342||Zagorska Sela - Bojačno 3B|140|Spare
+813343||Zlatar Bistrica - Ulica Rudolfa Jakuša-Španca 30|141|Spare
+813344||Zlatar Bistrica - Ulica Zagorske brigade 10A|141|Spare
+813345||Hum na Sutli - Hum na Sutli 11|142|Spare
+813346||Hum na Sutli - Hum na Sutli 46|142|Spare
+813347||Desinić - Prosenik 37-38|143|Spare
+813348||Desinić - Prosenik 8|143|Spare
+813349||Desinić - Prosenik 102|143|Spare
+813350||Krapina|144|Spare
+813351||Krapina - Straža Krapinska|144|Spare
+813352||Bedekovčina - Zagorska ulica 33|145|Spare
+813353||Bedekovčina - Zagorska ulica 53|145|Spare
+813354||Đurmanec - Brezovica Petrovska 17|146|Spare
+813355||Đurmanec - Brezovica Petrovska 13|146|Spare
+813356||Đurmanec - Brezovica Petrovska 28|146|Spare
+813357||Ivanec - Ulica Ivana Gorana Kovačića 71|147|Spare
+813358||Ivanec - Ulica Vladimira Nazora 89|147|Spare
+813359||Donja Voća - Gornja Voća 209|148|Spare
+813360||Donja Voća - Selci Križovljanski 112|148|Spare
+813361||Donja Voća - Drenovec 14|148|Spare
+813362||Klenovnik - Klenovnik 199|149|Spare
+813363||Klenovnik - Klenovnik 150|149|Spare
+813364||Klenovnik - Klenovnik 192|149|Spare
+813365||Martijanec - Ulica Krušec Rudolfa 23|150|Spare
+813366||Martijanec - Ulica Krušec Rudolfa 67-75|150|Spare
+813367||Martijanec - Ulica Krušec Rudolfa 93|150|Spare
+813368||Sveti Ilija - Ulica Stjepana Radića 36|151|Spare
+813369||Sveti Ilija - Kružna ulica 12|151|Spare
+813370||Vidovec - Ulica Braće Radić 10|152|Spare
+813371||Vidovec - Radnička ulica 19|152|Spare
+813372||Trnovec Bartolovečki - Ludbreška ulica 11|153|Spare
+813373||Trnovec Bartolovečki - Koprivnička ulica 28|153|Spare
+813374||Cestica - Selci Križovljanski 204|154|Spare
+813375||Cestica - Malo Gradišće 26|154|Spare
+813376||Maruševec - Maruševec 45|155|Spare
+813377||Maruševec - Kapelec 10|155|Spare
+813378||Đelekovec - Ulica Pavla Kvakana 30|156|Spare
+813379||Đelekovec - Ulica Mirka Viriusa 18|156|Spare
+813380||Đelekovec - Ulica Pavla Kvakana 15|156|Spare
+813381||Novo Virje|157|Spare
+813382||Novo Virje|157|Spare
+813383||Novo Virje|157|Spare
+813384||Sveti Petar Orehovec|159|Spare
+813385||Sveti Petar Orehovec|159|Spare
+813386||Sveti Petar Orehovec|159|Spare
+813387||Selnica - Donji Koncovčak 90|160|Spare
+813388||Selnica - Donji Koncovčak 114|160|Spare
+813389||Sveti Juraj na Bregu - Vučetinec 100A|161|Spare
+813390||Sveti Juraj na Bregu - Vučetinec 106C|161|Spare
+813391||Podturen - Selska ulica 46|162|Spare
+813392||Podturen - Novo naselje 5|162|Spare
+813393||Daruvar - Ulica Krste Frankopana 24|163|Spare
+813394||Daruvar - Vinogradska ulica 1|163|Spare
+813395||Kapela - Nova Diklenica 22|164|Spare
+813396||Kapela - Nova Diklenica 35|164|Spare
+813397||Kapela - Ćurlovac 67|164|Spare
+813398||Velika Pisanica - Bedenik 110|165|Spare
+813399||Velika Pisanica - Bedenik 155|165|Spare
+813400||Velika Pisanica - Bedenik 135|165|Spare
+813401||Veliki Grđevac - Kolodvorska ulica 13|166|Spare
+813402||Veliki Grđevac - Ulica kralja Zvonimira 17-19|166|Spare
+813403||Veliki Grđevac - Ulica kralja Zvonimira 8|166|Spare
+813404||Orahovica - Stošićevo šetalište 17|167|Spare
+813405||Orahovica - Stošićevo šetalište 59|167|Spare
+813406||Pitomača - Ulica Petra Preradovića 29|168|Spare
+813407||Pitomača - Ulica Petra Krešimira IV 8|168|Spare
+813408||Velika|169|Spare
+813409||Velika|169|Spare
+813410||Velika|169|Spare
+813411||Gornji Bogićevci|170|Spare
+813412||Gornji Bogićevci|170|Spare
+813413||Gornji Bogićevci|170|Spare
+813414||Velika Kopanica - Ulica Vladimira Nazora 2A|171|Spare
+813415||Velika Kopanica - Ulica Vladimira Nazora 76A|171|Spare
+813416||Velika Kopanica - Ulica Vladimira Nazora 25A|171|Spare
+813417||Darda - Vukovarska ulica 33|173|Spare
+813418||Darda - Ulica Dobriše Cesarića 36|173|Spare
+813419||Jagodnjak - Ulica Vuka Karadžića 22|174|Spare
+813420||Jagodnjak - Ulica Save Kovačevića 53|174|Spare
+813421||Jagodnjak - Ulica Petra Drapšina 9|174|Spare
+813422||Koška|175|Spare
+813423||Koška|175|Spare
+813424||Koška - kolodvorska 16|175|Spare
+813425||Valpovo|176|Spare
+813426||Valpovo|176|Spare
+813427||Babina Greda - Ulica bana Ivana Mažuranića 13|177|Spare
+813428||Babina Greda - Ulica Vladimira Nazora 71|177|Spare
+813429||Nijemci - Ulica Josipa Jurja Strossmayera 49|178|Spare
+813430||Nijemci - Ulica Antuna Gustava Matoša 10|178|Spare
+813431||Nijemci - Ulica Josipa Jurja Strossmayera 8|178|Spare
+813432||Otok - Varošćica ulica 42|180|Spare
+813433||Otok - Ulica kralja Držislava 74|180|Spare
+813434||Vrbanja - Ulica Vladimira Nazora 51|183|Spare
+813435||Vrbanja - Ulica Vladimira Nazora 8|183|Spare
+813436||Duga Resa - Ulica Slavka Kolara 32A|184|Spare
+813437||Duga Resa - Jozefinska ulica 48B|184|Spare
+813438||Vojnić|185|Spare
+813439||Vojnić|185|Spare
+813440||Vojnić|185|Spare
+813441||Petrinja - Ulica Ivice Hrnčevića|187|Spare
+813442||Petrinja - Ulica Josipa Nemeca 30|187|Spare
+813443||Martinska Ves|188|Spare
+813444||Martinska Ves - Savska ulica 

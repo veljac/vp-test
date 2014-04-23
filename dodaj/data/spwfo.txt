@@ -1,0 +1,275 @@
+813001	63a5bd6b-eb2b-41c4-b696-923fae594b86	Čavle - Podrvanj	1
+813002	63a5bd6b-eb2b-41c4-b696-923fae594b86	Čavle - Podčudnič	1
+813003	63a5bd6b-eb2b-41c4-b696-923fae594b86	Čavle - Čavle	1
+813004	63a5bd6b-eb2b-41c4-b696-923fae594b86	Bakar - Bakarac	2
+813005	63a5bd6b-eb2b-41c4-b696-923fae594b86	Bakar - Bakarac	2
+813006	63a5bd6b-eb2b-41c4-b696-923fae594b86	Bakar - Bakarac	2
+813007	63a5bd6b-eb2b-41c4-b696-923fae594b86	Kostrena	3
+813008	63a5bd6b-eb2b-41c4-b696-923fae594b86	Kostrena	3
+813009	63a5bd6b-eb2b-41c4-b696-923fae594b86	Opatija - Ulica Feliksa Perišića 5	4
+813010	63a5bd6b-eb2b-41c4-b696-923fae594b86	Opatija - Varljenska cesta 7	4
+813011	63a5bd6b-eb2b-41c4-b696-923fae594b86	Viškovo - Ulica Baretićevo 16	5
+813012	63a5bd6b-eb2b-41c4-b696-923fae594b86	Viškovo - Straža 41	5
+813013	63a5bd6b-eb2b-41c4-b696-923fae594b86	Rijeka - Ulica Vladivoja i Milivoja Lenca 35	6
+813014	63a5bd6b-eb2b-41c4-b696-923fae594b86	Rijeka - Pletenci 40	6
+813015	63a5bd6b-eb2b-41c4-b696-923fae594b86	Rijeka - Ulica Zametskog Korena 14	6
+813016	63a5bd6b-eb2b-41c4-b696-923fae594b86	Rijeka - Ulica Milice Jadranić 17	6
+813017	63a5bd6b-eb2b-41c4-b696-923fae594b86	Rijeka - Zagrebačka ulica 20	7
+813018	63a5bd6b-eb2b-41c4-b696-923fae594b86	Rijeka - Ulica Ivana Grohovca 2	7
+813019	63a5bd6b-eb2b-41c4-b696-923fae594b86	Rijeka - Veslarska ulica 5	7
+813020	63a5bd6b-eb2b-41c4-b696-923fae594b86	Rijeka - Korzo 8C	7
+813021	88a39030-c2f0-40b4-9c4e-74abe9bce433	Otočac	8
+813022	88a39030-c2f0-40b4-9c4e-74abe9bce433	Otočac	8
+813023	88a39030-c2f0-40b4-9c4e-74abe9bce433	Otočac	8
+813024	88a39030-c2f0-40b4-9c4e-74abe9bce433	Preko - Ulica Gaj	9
+813025	88a39030-c2f0-40b4-9c4e-74abe9bce433	Preko - Ulica Merikanica	9
+813026	88a39030-c2f0-40b4-9c4e-74abe9bce433	Preko - Fortoška ulica	9
+813027	88a39030-c2f0-40b4-9c4e-74abe9bce433	Privlaka	11
+813028	88a39030-c2f0-40b4-9c4e-74abe9bce433	Privlaka	11
+813029	88a39030-c2f0-40b4-9c4e-74abe9bce433	Privlaka	11
+813030	88a39030-c2f0-40b4-9c4e-74abe9bce433	Privlaka	11
+813031	88a39030-c2f0-40b4-9c4e-74abe9bce433	Zadar - Ulica Nikole Tesle 7	12
+813032	88a39030-c2f0-40b4-9c4e-74abe9bce433	Zadar - Ulica Šime Starčevića 2	12
+813033	88a39030-c2f0-40b4-9c4e-74abe9bce433	Zadar - Privlačka ulica 16	12
+813034	88a39030-c2f0-40b4-9c4e-74abe9bce433	Zadar - Ulica Ljudevita Gaja 13	12
+813035	88a39030-c2f0-40b4-9c4e-74abe9bce433	Skradin - D56	13
+813036	88a39030-c2f0-40b4-9c4e-74abe9bce433	Skradin - D56	13
+813037	88a39030-c2f0-40b4-9c4e-74abe9bce433	Skradin - D56	13
+813038	88a39030-c2f0-40b4-9c4e-74abe9bce433	Šibenik - Ulica Antuna Gustava Matoša	14
+813039	88a39030-c2f0-40b4-9c4e-74abe9bce433	Šibenik - Perkovački put 6	14
+813040	88a39030-c2f0-40b4-9c4e-74abe9bce433	Šibenik - Ulica kralja Zvonimira 40	15
+813041	88a39030-c2f0-40b4-9c4e-74abe9bce433	Šibenik - Ulica Mihe Klaića 3	15
+813042	4778bed4-48a2-4c67-8361-6b8a10b87334	Hrvace	16
+813043	4778bed4-48a2-4c67-8361-6b8a10b87334	Hrvace	16
+813044	4778bed4-48a2-4c67-8361-6b8a10b87334	Hrvace	16
+813045	4778bed4-48a2-4c67-8361-6b8a10b87334	Trilj - Jabuka	17
+813046	4778bed4-48a2-4c67-8361-6b8a10b87334	Trilj - Jabuka	17
+813047	4778bed4-48a2-4c67-8361-6b8a10b87334	Trilj - Jabuka	17
+813048	4778bed4-48a2-4c67-8361-6b8a10b87334	Supetar	18
+813049	4778bed4-48a2-4c67-8361-6b8a10b87334	Supetar	18
+813050	4778bed4-48a2-4c67-8361-6b8a10b87334	Klis	19
+813051	4778bed4-48a2-4c67-8361-6b8a10b87334	Klis	19
+813052	4778bed4-48a2-4c67-8361-6b8a10b87334	Podstrana - Blato	20
+813053	4778bed4-48a2-4c67-8361-6b8a10b87334	Podstrana - Ulica Gospe u siti	20
+813054	4778bed4-48a2-4c67-8361-6b8a10b87334	Kaštela - Potok Strabežnik 20	21
+813055	4778bed4-48a2-4c67-8361-6b8a10b87334	Kaštela - Put bunarića	21
+813056	4778bed4-48a2-4c67-8361-6b8a10b87334	Trogir - D8	22
+813057	4778bed4-48a2-4c67-8361-6b8a10b87334	Trogir - D8	22
+813058	4778bed4-48a2-4c67-8361-6b8a10b87334	Solin - Put Majdana	23
+813059	4778bed4-48a2-4c67-8361-6b8a10b87334	Solin - Kliški put	23
+813060	4778bed4-48a2-4c67-8361-6b8a10b87334	Split - Mosećka ulica 126	24
+813061	4778bed4-48a2-4c67-8361-6b8a10b87334	Split - Vrlička ulica 2A	24
+813062	4778bed4-48a2-4c67-8361-6b8a10b87334	Split - Ulica Vjekoslava Paraća 25	24
+813063	4778bed4-48a2-4c67-8361-6b8a10b87334	Split - Velebitska ulica 46	24
+813064	4778bed4-48a2-4c67-8361-6b8a10b87334	Split - Ulica Svetog Mihovila	25
+813065	4778bed4-48a2-4c67-8361-6b8a10b87334	Split - Krilava ulica	25
+813066	4778bed4-48a2-4c67-8361-6b8a10b87334	Split - Mali put	25
+813067	4778bed4-48a2-4c67-8361-6b8a10b87334	Split - Put Vidovače	25
+813068	4778bed4-48a2-4c67-8361-6b8a10b87334	Split	26
+813069	4778bed4-48a2-4c67-8361-6b8a10b87334	Split	26
+813070	4778bed4-48a2-4c67-8361-6b8a10b87334	Split	26
+813071	4778bed4-48a2-4c67-8361-6b8a10b87334	Split	26
+813072	63a5bd6b-eb2b-41c4-b696-923fae594b86	Vrsar  Orsera	27
+813073	63a5bd6b-eb2b-41c4-b696-923fae594b86	Vrsar  Orsera	27
+813074	63a5bd6b-eb2b-41c4-b696-923fae594b86	Vrsar  Orsera	27
+813075	63a5bd6b-eb2b-41c4-b696-923fae594b86	Labin - Salakovci	28
+813076	63a5bd6b-eb2b-41c4-b696-923fae594b86	Labin - Salakovci	28
+813077	63a5bd6b-eb2b-41c4-b696-923fae594b86	Vodnjan  Dignano - Fažanska cesta 20	29
+813078	63a5bd6b-eb2b-41c4-b696-923fae594b86	Vodnjan  Dignano - Ulica San Rocco 38C	29
+813079	63a5bd6b-eb2b-41c4-b696-923fae594b86	Poreč  Parenzo - Jasenova ulica	30
+813080	63a5bd6b-eb2b-41c4-b696-923fae594b86	Poreč  Parenzo	30
+813081	63a5bd6b-eb2b-41c4-b696-923fae594b86	Pula  Pola - Vergerijeva ulica 13	31
+813082	63a5bd6b-eb2b-41c4-b696-923fae594b86	Pula  Pola - Bastianova ulica 6	31
+813083	63a5bd6b-eb2b-41c4-b696-923fae594b86	Pula  Pola - Prilaz Plovana Mikule 4	31
+813084	63a5bd6b-eb2b-41c4-b696-923fae594b86	Pula  Pola - Ulica Leonarda da Vincija 1	31
+813085	4778bed4-48a2-4c67-8361-6b8a10b87334	Konavle	32
+813086	4778bed4-48a2-4c67-8361-6b8a10b87334	Konavle	32
+813087	4778bed4-48a2-4c67-8361-6b8a10b87334	Konavle	32
+813088	4778bed4-48a2-4c67-8361-6b8a10b87334	Opuzen	33
+813089	4778bed4-48a2-4c67-8361-6b8a10b87334	Opuzen	33
+813090	4778bed4-48a2-4c67-8361-6b8a10b87334	Dubrovnik	34
+813091	4778bed4-48a2-4c67-8361-6b8a10b87334	Dubrovnik	34
+813092	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Gornji Grad Medveščak - Ulica Milana Rešetara 36-38	35
+813093	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Gornji Grad Medveščak - Ulica Jurja Barakovića 14	35
+813094	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Gornji Grad Medveščak - Ulica Slavka Batušića 25	35
+813095	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Gornji Grad Medveščak - Kotarnica ulica 14	35
+813096	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Donja Dubrava - Hrnetička ulica 22	36
+813097	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Donja Dubrava - Zubovačka ulica 4	36
+813098	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Donja Dubrava - Malešnica ulica 27	36
+813099	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Donja Dubrava - Ulica Malešnica III 6	36
+813100	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Črnomerec - Ulica Donje Vrapče 45	37
+813101	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Črnomerec - Debanićeva ulica 1	37
+813102	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Črnomerec - Majurečki put 22	37
+813103	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Črnomerec - Domagovićka ulica 1	37
+813104	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Črnomerec - Demerje	38
+813105	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Črnomerec - Demerje	38
+813106	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Črnomerec - Demerje	38
+813107	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Črnomerec - Demerje	38
+813108	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trnje - Posedarska ulica 102	39
+813109	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trnje - Utinjska ulica odvojak I 13	39
+813110	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trnje - Glogovečka ulica 5	39
+813111	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trnje - Malnarova ulica odvojak IV 4	39
+813112	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka sjever - Livanjska ulica 7	40
+813113	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka sjever - Gvozdanska ulica 26	40
+813114	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka sjever - Stolačka ulica 13	40
+813115	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka sjever - Mošćenička ulica 5	40
+813116	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka sjever - Dugoselska ulica 29	41
+813117	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka sjever - Šaškovečka ulica 29	41
+813118	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka sjever - Heinzelova ulica 69	41
+813119	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka sjever - Andrilovečka ulica 28	41
+813120	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Novi Zagreb zapad - Degidovečka ulica 19	42
+813121	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Novi Zagreb zapad - Vinkuranska ulica 7	42
+813122	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Novi Zagreb zapad - Dravska ulica 12	42
+813123	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Novi Zagreb zapad - Žuti dol 18	42
+813124	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Novi Zagreb zapad - Ulica Trnava I 39	43
+813125	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Novi Zagreb zapad - Česmina ulica 22	43
+813126	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Novi Zagreb zapad - Bagrema ulica 18	43
+813127	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Novi Zagreb zapad - Vinodolska ulica 87	43
+813128	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Gornja Dubrava - Ulica Ivice Lovinčića 1	44
+813129	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Gornja Dubrava - Krapinska ulica 13b	44
+813130	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Gornja Dubrava - Ulica Ignaca Puđaka odvojak I 10	44
+813131	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Gornja Dubrava - Ulica Šime Ljubića 20	44
+813132	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka jug - Ulica Novački Vidikovac 2	45
+813133	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka jug - Cuglini ulica 18	45
+813134	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka jug - Severi ulica 12A	45
+813135	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka jug - Dotršćinska ulica 74	45
+813136	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka jug - Durmitorska ulica 23	46
+813137	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka jug - Mlinovi ulica 116	46
+813138	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka jug - Gornje Prekrižje 80A	46
+813139	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Trešnjevka jug - Ulica Šestinski vijenac 52	46
+813140	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Sesvete - Vinogradska ulica 31-33	47
+813141	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Sesvete - Poljaki ulica odvojak 6	47
+813142	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Sesvete - Prigorska 19	47
+813143	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Sesvete - Ulica Kuntića Đure 20	47
+813144	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Klinča Sela - Repišće 34A	48
+813145	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Klinča Sela - Repišće 70-71	48
+813146	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Klinča Sela - Repišće 57	48
+813147	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Dubrava	49
+813148	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Dubrava	49
+813149	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Dubrava	49
+813150	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Bistra - Podgorska ulica 79	50
+813151	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Bistra - Podgorska ulica 127	50
+813152	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Samobor - Ulica Marovići II 10	51
+813153	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Samobor - Karlovačka cesta 128	51
+813154	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Sveta Nedelja - Ulica Augusta Šenoe 7	52
+813155	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Sveta Nedelja - Stubička ulica 6	52
+813156	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Dugo Selo - Šaškovečka ulica 124	53
+813157	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Dugo Selo - Martinska ulica 110	53
+813158	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Zaprešić - Ulica bana Josipa Jelačića 43	54
+813159	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Zaprešić - Ulica Ivana Mažuranića 27	54
+813160	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Velika Gorica - Prvonožina 1	55
+813161	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Velika Gorica - Prvonožina 1	55
+813162	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Velika Gorica - Prvonožina 2	55
+813163	17122e5e-dd7d-4467-9ef5-d02b38c78b8d	Velika Gorica - Prvonožina 15	55
+813164	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Konjščina - Jertovec 182	56
+813165	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Konjščina - Jertovec 203B	56
+813166	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Konjščina - Jertovec 182A	56
+813167	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Sveti Križ Začretje - Gornja Pačetina 36	57
+813168	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Sveti Križ Začretje - Gornja Pačetina 31	57
+813169	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Zabok - Martinišće 16-25	58
+813170	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Zabok - Martinišće 44	58
+813171	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Zabok - Hum Zabočki 71B	59
+813172	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Zabok - Hum Zabočki 1C	59
+813173	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Jalžabet	60
+813174	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Jalžabet	60
+813175	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Jalžabet	60
+813176	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Gornji Kneginec - Kučanska ulica 30	61
+813177	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Gornji Kneginec - Kučanska ulica 24	61
+813178	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Lepoglava - Kaniža 44	62
+813179	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Lepoglava - Kaniža 35B	62
+813180	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Sračinec - Ulica Ljudevita Gaja 16	63
+813181	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Sračinec - Ulica kralja Tomislava 8	63
+813182	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Varaždin - Radnička ulica 97	64
+813183	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Varaždin - Ulica kralja Tomislava 13	64
+813184	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Peteranec - Selnica Podravska 9	65
+813185	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Peteranec - Selnica Podravska 864	65
+813186	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Peteranec	65
+813187	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Križevci	66
+813188	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Križevci	66
+813189	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Koprivnica - Starogradska ulica 144	67
+813190	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Koprivnica - Ulica kraljice Jelene 10	67
+813191	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Mala Subotica - Ulica Josipa Slavenskog 52A	68
+813192	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Mala Subotica - Grabanica ulica 30A	68
+813193	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Nedelišće - Trnovec 68A	69
+813194	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Nedelišće - Ulica Miroslava Krleže 8	69
+813195	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Čakovec - Ulica Josipa Bedekovića 40	70
+813196	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Čakovec - Budina ulica 4	70
+813197	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Čakovec - Ulica kralja Zvonimira 12A	71
+813198	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Čakovec - Ulica Stjepana Bencea 2	71
+813199	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Rovišće - Podgorci 90B	72
+813200	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Rovišće - Kobasičari 140A	72
+813201	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Rovišće - Kobasičari 55	72
+813202	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Đulovac - Končanica 30	73
+813203	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Đulovac - Dioš 34	73
+813204	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Bjelovar - Ulica don Frane Bulića 26	74
+813205	f666a25e-f2db-49f2-a535-d8f8dadd4bc1	Bjelovar - Ulica Bogoslava Šuleka 6	74
+813206	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Čačinci	75
+813207	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Čačinci	75
+813208	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Slatina	76
+813209	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Slatina	76
+813210	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Virovitica - Rezovački put 33	77
+813211	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Virovitica - Podravska ulica 92	77
+813212	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Brestovac	78
+813213	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Brestovac	78
+813214	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Brestovac	78
+813215	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Požega - Ulica Vilima Korajca 27	79
+813216	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Požega - Ulica Eugena Kvaternika 100	79
+813217	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Dragalić	80
+813218	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Dragalić	80
+813219	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Dragalić	80
+813220	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Nova Gradiška - Ulica kralja Dmitra Zvonimira 263	81
+813221	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Nova Gradiška - Posavska ulica 7	81
+813222	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Slavonski Brod - Ulica doktor Franje Tuđmana	82
+813223	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Slavonski Brod - Požeška ulica 164	82
+813224	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Slavonski Brod - Ulica doktor Franje Tuđmana	82
+813225	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Slavonski Brod - Ulica doktor Franje Tuđmana	82
+813226	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Čeminac - Vjetrovita ulica 35	83
+813227	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Čeminac - Vjetrovita ulica 3	83
+813228	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Čeminac - Kolodvorska ulica 48	83
+813229	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Antunovac - Ulica Hrvatske Republike 6	84
+813230	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Antunovac - Ulica Ante Starčevića 1	84
+813231	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Bilje	85
+813232	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Bilje	85
+813233	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Beli Manastir - Ulica dr. Ante Starčevića 7	86
+813234	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Beli Manastir - Zagrebačka ulica 15	86
+813235	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Đakovo - Certiše ulica 1	87
+813236	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Đakovo - Ulica Otona Ivekovića 20	87
+813237	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Osijek - Ulica Jovana Gojkovića 21	88
+813238	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Osijek - Ulica Mije Kišpatića 63	88
+813239	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Osijek - Crkvena ulica 45	88
+813240	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Osijek - Grmić ulica	88
+813241	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Osijek - Prenjska ulica 6	89
+813242	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Osijek - Ulica Antuna Kanižlića 58	89
+813243	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Osijek - Kozjačka ulica 2A	89
+813244	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Osijek - Plješivička ulica 52	89
+813245	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Stari Jankovci	90
+813246	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Stari Jankovci	90
+813247	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Stari Jankovci	90
+813248	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Andrijaševci - Mala Cerna 94	91
+813249	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Andrijaševci - Mala Cerna 43	91
+813250	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Ivankovo - Ulica Gorjani 68	92
+813251	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Ivankovo - Ulica Rojčani	92
+813252	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Županja - Štitarska ulica 157	93
+813253	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Županja - Štitarska ulica 74	93
+813254	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Vinkovci - Ulica kralja Krešimira 21	94
+813255	284bdb86-42fb-4bb2-9a77-2bc3e52dc580	Vinkovci - Slavija ulica 98	94
+813256	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Ozalj - Ulica Slave Raškaj 15	95
+813257	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Ozalj - Vrhovački Sopot 26	95
+813258	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Ozalj - Kupska ulica 14	95
+813259	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Draganić - Zagrebačka ulica	96
+813260	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Draganić - D1	96
+813261	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Karlovac - Goljaki Turanjski 80A	97
+813262	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Karlovac - Goljaki Turanjski 39A	97
+813263	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Karlovac - Goljaki Turanjski 72A	97
+813264	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Karlovac - Goljaki Turanjski 40	97
+813265	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Sunja	98
+813266	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Sunja	98
+813267	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Sunja	98
+813268	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Novska	99
+813269	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Novska	99
+813270	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Kutina - Ulica Kutinska Lipa 126	100
+813271	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Kutina	100
+813272	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Sisak - Obala Tome Bakača Erdoedyja 31	101
+813273	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Sisak - Ulica Ive Rukavine Siđe 67	101
+813274	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Sisak - Ulica Capraške Poljane	102
+813275	9afba73a-f1e3-4df2-ac5d-2d94dd3a70ab	Sisak - Ulica Rade Končara 29	102

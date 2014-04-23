@@ -1,0 +1,445 @@
+STARTNE TOČKE:
+813001|Survey name: EB81.3; Start address: Podrvanj, 51219, Podrvanj; GPS: 45.3646353,14.478734499999973|HR03U3||Čavle - Podrvanj|1|Regular
+813002|Survey name: EB81.3; Start address: Podčudnič, 51219, Podčudnič; GPS: 45.3622181,14.484727099999986|HR03U3||Čavle - Podčudnič|1|Regular
+813003|Survey name: EB81.3; Start address: Čavle, 51219, Čavle; GPS: 45.3585856,14.484391899999991|HR03U3||Čavle - Čavle|1|Regular
+813004|Survey name: EB81.3; Start address: Bakarac, 51261, Bakarac; GPS: 45.2810748,14.581660199999987|HR03U3||Bakar - Bakarac|2|Regular
+813005|Survey name: EB81.3; Start address: Bakarac, 51261, Bakarac; GPS: 45.2794632,14.583902099999932|HR03U3||Bakar - Bakarac|2|Regular
+813006|Survey name: EB81.3; Start address: Bakarac, 51261, Bakarac; GPS: 45.2794809,14.581778399999962|HR03U3||Bakar - Bakarac|2|Regular
+813007|Survey name: EB81.3; Start address: ; GPS: 45.29549405294072,14.518604278564453|HR03U2||Kostrena|3|Regular
+813008|Survey name: EB81.3; Start address: ; GPS: 45.29738082309369,14.515256881713865|HR03U2||Kostrena|3|Regular
+813009|Survey name: EB81.3; Start address: Ulica Feliksa Perišića 5, 51410, Opatija; GPS: 45.3404223,14.30978099999993|HR03U2||Opatija - Ulica Feliksa Perišića 5|4|Regular
+813010|Survey name: EB81.3; Start address: Varljenska cesta 7, 51410, Opatija; GPS: 45.3451684,14.310904899999968|HR03U2||Opatija - Varljenska cesta 7|4|Regular
+813011|Survey name: EB81.3; Start address: Ulica Baretićevo 16, 51000, Rijeka; GPS: 45.3587536,14.400762500000041|HR03U2||Viškovo - Ulica Baretićevo 16|5|Regular
+813012|Survey name: EB81.3; Start address: Straža 41, 51000, Viškovo; GPS: 45.3622784,14.399591600000008|HR03U2||Viškovo - Straža 41|5|Regular
+813013|Survey name: EB81.3; Start address: Ulica Vladivoja i Milivoja Lenca 35, 51000, Rijeka; GPS: 45.348887,14.387245099999972|HR03U1||Rijeka - Ulica Vladivoja i Milivoja Lenca 35|6|Regular
+813014|Survey name: EB81.3; Start address: Pletenci 40, 51000, Rijeka; GPS: 45.3546056,14.397239899999931|HR03U1||Rijeka - Pletenci 40|6|Regular
+813015|Survey name: EB81.3; Start address: Ulica Zametskog Korena 14, 51000, Rijeka; GPS: 45.34945279999999,14.39414469999997|HR03U1||Rijeka - Ulica Zametskog Korena 14|6|Regular
+813016|Survey name: EB81.3; Start address: Ulica Milice Jadranić 17, 51216, Marinići; GPS: 45.3552062,14.387170900000001|HR03U1||Rijeka - Ulica Milice Jadranić 17|6|Regular
+813017|Survey name: EB81.3; Start address: Zagrebačka ulica 20, 51000, Rijeka; GPS: 45.3246396,14.44174739999994|HR03U1||Rijeka - Zagrebačka ulica 20|7|Regular
+813018|Survey name: EB81.3; Start address: Ulica Ivana Grohovca 2, 51000, Rijeka; GPS: 45.328194,14.445388699999966|HR03U1||Rijeka - Ulica Ivana Grohovca 2|7|Regular
+813019|Survey name: EB81.3; Start address: Veslarska ulica 5, 51000, Rijeka; GPS: 45.3249973,14.44466669999997|HR03U1||Rijeka - Veslarska ulica 5|7|Regular
+813020|Survey name: EB81.3; Start address: Korzo 8C, 51000, Rijeka; GPS: 45.326564,14.443032899999934|HR03U1||Rijeka - Korzo 8C|7|Regular
+813021|Survey name: EB81.3; Start address: ; GPS: 44.804615418709076,15.32412528991699|HR03U3||Otočac|8|Regular
+813022|Survey name: EB81.3; Start address: ; GPS: 44.80310817171785,15.325949192047117|HR03U3||Otočac|8|Regular
+813023|Survey name: EB81.3; Start address: ; GPS: 44.79820554047785,15.329618453979492|HR03U3||Otočac|8|Regular
+813024|Survey name: EB81.3; Start address: Ulica Gaj, 23275, Ugljan; GPS: 44.1281361,15.103424300000028|HR03U3||Preko - Ulica Gaj|9|Regular
+813025|Survey name: EB81.3; Start address: Ulica Merikanica, 23275, Ugljan; GPS: 44.1272664,15.105123100000014|HR03U3||Preko - Ulica Merikanica|9|Regular
+813026|Survey name: EB81.3; Start address: Fortoška ulica, 23275, Ugljan; GPS: 44.1218608,15.100212699999929|HR03U3||Preko - Fortoška ulica|9|Regular
+813027|Survey name: EB81.3; Start address: ; GPS: 44.259023988706716,15.126543045043945|HR03U2||Privlaka|11|Regular
+813028|Survey name: EB81.3; Start address: ; GPS: 44.26019193095791,15.120824575424192|HR03U2||Privlaka|11|Regular
+813029|Survey name: EB81.3; Start address: ; GPS: 44.24071038735447,15.144760608673094|HR03U2||Privlaka|11|Regular
+813030|Survey name: EB81.3; Start address: ; GPS: 44.245767755264055,15.153644084930418|HR03U2||Privlaka|11|Regular
+813031|Survey name: EB81.3; Start address: Ulica Nikole Tesle 7, 23000, Zadar; GPS: 44.1213173,15.235273099999972|HR03U1|88a39030-c2f0-40b4-9c4e-74abe9bce433|Zadar - Ulica Nikole Tesle 7|12|Regular
+813032|Survey name: EB81.3; Start address: Ulica Šime Starčevića 2, 23000, Zadar; GPS: 44.1268906,15.245873500000016|HR03U1||Zadar - Ulica Šime Starčevića 2|12|Regular
+813033|Survey name: EB81.3; Start address: Privlačka ulica 16, 23000, Zadar; GPS: 44.1234051,15.245275399999968|HR03U1||Zadar - Privlačka ulica 16|12|Regular
+813034|Survey name: EB81.3; Start address: Ulica Ljudevita Gaja 13, 23000, Zadar; GPS: 44.1280226,15.237914700000033|HR03U1||Zadar - Ulica Ljudevita Gaja 13|12|Regular
+813035|Survey name: EB81.3; Start address: D56, 22223, Bribir; GPS: 43.9122371,15.837789100000009|HR03U3||Skradin - D56|13|Regular
+813036|Survey name: EB81.3; Start address: D56, 22223, Bribir; GPS: 43.9119798,15.84518090000006|HR03U3||Skradin - D56|13|Regular
+813037|Survey name: EB81.3; Start address: D56, 22223, Bribir; GPS: 43.9116546,15.846282900000005|HR03U3||Skradin - D56|13|Regular
+813038|Survey name: EB81.3; Start address: Ulica Antuna Gustava Matoša, 22020, Šibenik; GPS: 43.7007667,15.92443359999993|HR03U2||Šibenik - Ulica Antuna Gustava Matoša|14|Regular
+813039|Survey name: EB81.3; Start address: Perkovački put 6, 22020, Šibenik; GPS: 43.7059313,15.92604700000004|HR03U2||Šibenik - Perkovački put 6|14|Regular
+813040|Survey name: EB81.3; Start address: Ulica kralja Zvonimira 40, 22000, Šibenik; GPS: 43.7360845,15.892063600000028|HR03U2||Šibenik - Ulica kralja Zvonimira 40|15|Regular
+813041|Survey name: EB81.3; Start address: Ulica Mihe Klaića 3, 22000, Šibenik; GPS: 43.7358364,15.898277300000018|HR03U2||Šibenik - Ulica Mihe Klaića 3|15|Regular
+813042|Survey name: EB81.3; Start address: ; GPS: 43.73764672417157,16.65439367294311|HR03U3||Hrvace|16|Regular
+813043|Survey name: EB81.3; Start address: ; GPS: 43.744142316477145,16.653470993041992|HR03U3||Hrvace|16|Regular
+813044|Survey name: EB81.3; Start address: ; GPS: 43.73817383907989,16.65853500366211|HR03U3||Hrvace|16|Regular
+813045|Survey name: EB81.3; Start address: ; GPS: 43.63214600778877,16.750298738479614|HR03U3||Trilj - Jabuka|17|Regular
+813046|Survey name: EB81.3; Start address: ; GPS: 43.6332952713861,16.755201816558838|HR03U3||Trilj - Jabuka|17|Regular
+813047|Survey name: EB81.3; Start address: ; GPS: 43.63320985390178,16.759225130081176|HR03U3||Trilj - Jabuka|17|Regular
+813048|Survey name: EB81.3; Start address: ; GPS: 43.37684767435098,16.520090103149414|HR03U2||Supetar|18|Regular
+813049|Survey name: EB81.3; Start address: ; GPS: 43.378851798846775,16.52270793914795|HR03U2||Supetar|18|Regular
+813050|Survey name: EB81.3; Start address: ; GPS: 43.66035873282384,16.391687393188476|HR03U2||Klis|19|Regular
+813051|Survey name: EB81.3; Start address: ; GPS: 43.6556704693895,16.399734020233154|HR03U2||Klis|19|Regular
+813052|Survey name: EB81.3; Start address: Blato, 21312, Podstrana; GPS: 43.50192870000001,16.536847800000032|HR03U2||Podstrana - Blato|20|Regular
+813053|Survey name: EB81.3; Start address: Ulica Gospe u siti, 21312, Podstrana; GPS: 43.5038056,16.541240700000003|HR03U2||Podstrana - Ulica Gospe u siti|20|Regular
+813054|Survey name: EB81.3; Start address: Potok Strabežnik 20, 21212, Kaštel Sućurac; GPS: 43.5550021,16.42155809999997|HR03U2||Kaštela - Potok Strabežnik 20|21|Regular
+813055|Survey name: EB81.3; Start address: Put bunarića, 21212, Kaštel Sućurac; GPS: 43.55595719999999,16.418686500000035|HR03U2||Kaštela - Put bunarića|21|Regular
+813056|Survey name: EB81.3; Start address: D8, 21216, Kaštel Štafilić; GPS: 43.5473127,16.296988499999998|HR03U2||Trogir - D8|22|Regular
+813057|Survey name: EB81.3; Start address: D8, 21216, Kaštel Štafilić; GPS: 43.5473127,16.296988499999998|HR03U2||Trogir - D8|22|Regular
+813058|Survey name: EB81.3; Start address: Put Majdana, 21231, Klis; GPS: 43.5404183,16.498070299999995|HR03U2||Solin - Put Majdana|23|Regular
+813059|Survey name: EB81.3; Start address: Kliški put, 21210, Solin; GPS: 43.54384719999999,16.49518850000004|HR03U2||Solin - Kliški put|23|Regular
+813060|Survey name: EB81.3; Start address: Mosećka ulica 126, 21000, Split; GPS: 43.5185348,16.45471580000003|HR03U1||Split - Mosećka ulica 126|24|Regular
+813061|Survey name: EB81.3; Start address: Vrlička ulica 2A, 21000, Split; GPS: 43.5244014,16.465292999999974|HR03U1||Split - Vrlička ulica 2A|24|Regular
+813062|Survey name: EB81.3; Start address: Ulica Vjekoslava Paraća 25, 21000, Split; GPS: 43.5174976,16.46247059999996|HR03U1||Split - Ulica Vjekoslava Paraća 25|24|Regular
+813063|Survey name: EB81.3; Start address: Velebitska ulica 46, 21000, Split; GPS: 43.5171182,16.45864789999996|HR03U1||Split - Velebitska ulica 46|24|Regular
+813064|Survey name: EB81.3; Start address: Ulica Svetog Mihovila, 21000, Kamen; GPS: 43.509552,16.52368750000005|HR03U1||Split - Ulica Svetog Mihovila|25|Regular
+813065|Survey name: EB81.3; Start address: Krilava ulica, 21000, Kamen; GPS: 43.5110123,16.526652600000034|HR03U1||Split - Krilava ulica|25|Regular
+813066|Survey name: EB81.3; Start address: Mali put, 21311, Stobreč; GPS: 43.5080999,16.526898899999992|HR03U1||Split - Mali put|25|Regular
+813067|Survey name: EB81.3; Start address: Put Vidovače, 21000, Kamen; GPS: 43.5134092,16.522097400000007|HR03U1||Split - Put Vidovače|25|Regular
+813068|Survey name: EB81.3; Start address: ; GPS: 43.50877548036183,16.594247817993164|HR03U1||Split|26|Regular
+813069|Survey name: EB81.3; Start address: ; GPS: 43.509413542891075,16.590481996536255|HR03U1||Split|26|Regular
+813070|Survey name: EB81.3; Start address: ; GPS: 43.51048734021254,16.59298181533813|HR03U1||Split|26|Regular
+813071|Survey name: EB81.3; Start address: ; GPS: 43.51160002307928,16.59113645553589|HR03U1||Split|26|Regular
+813072|Survey name: EB81.3; Start address: ; GPS: 45.14495441629597,13.605494499206543|HR03U3||Vrsar  Orsera|27|Regular
+813073|Survey name: EB81.3; Start address: ; GPS: 45.14280528663699,13.61130952835083|HR03U3||Vrsar  Orsera|27|Regular
+813074|Survey name: EB81.3; Start address: ; GPS: 45.14180636780767,13.614463806152343|HR03U3||Vrsar  Orsera|27|Regular
+813075|Survey name: EB81.3; Start address: Salakovci, 52220, Salakovci; GPS: 45.05638039999999,14.093160399999988|HR03U2||Labin - Salakovci|28|Regular
+813076|Survey name: EB81.3; Start address: Salakovci, 52220, Salakovci; GPS: 45.0581556,14.093038699999966|HR03U2||Labin - Salakovci|28|Regular
+813077|Survey name: EB81.3; Start address: Fažanska cesta 20, 52215, Vodnjan; GPS: 44.9566148,13.843757500000038|HR03U2||Vodnjan  Dignano - Fažanska cesta 20|29|Regular
+813078|Survey name: EB81.3; Start address: Ulica San Rocco 38C, 52215, Vodnjan; GPS: 44.9591061,13.845163899999989|HR03U2||Vodnjan  Dignano - Ulica San Rocco 38C|29|Regular
+813079|Survey name: EB81.3; Start address: Jasenova ulica, 52446, Kukci; GPS: 45.2606218,13.628901000000042|HR03U2||Poreč  Parenzo - Jasenova ulica|30|Regular
+813080|Survey name: EB81.3; Start address: ; GPS: 45.26371141342837,13.628754615783691|HR03U2||Poreč  Parenzo|30|Regular
+813081|Survey name: EB81.3; Start address: Vergerijeva ulica 13, 52100, Pula; GPS: 44.8656258,13.848338099999978|HR03U1||Pula  Pola - Vergerijeva ulica 13|31|Regular
+813082|Survey name: EB81.3; Start address: Bastianova ulica 6, 52100, Pula; GPS: 44.869446,13.858190599999943|HR03U1||Pula  Pola - Bastianova ulica 6|31|Regular
+813083|Survey name: EB81.3; Start address: Prilaz Plovana Mikule 4, 52100, Pula; GPS: 44.8642388,13.857268400000066|HR03U1||Pula  Pola - Prilaz Plovana Mikule 4|31|Regular
+813084|Survey name: EB81.3; Start address: Ulica Leonarda da Vincija 1, 52100, Pula; GPS: 44.8690727,13.850094200000057|HR03U1||Pula  Pola - Ulica Leonarda da Vincija 1|31|Regular
+813085|Survey name: EB81.3; Start address: ; GPS: 42.58615519119684,18.2328200340271|HR03U3||Konavle|32|Regular
+813086|Survey name: EB81.3; Start address: ; GPS: 42.58871448578846,18.22854995727539|HR03U3||Konavle|32|Regular
+813087|Survey name: EB81.3; Start address: ; GPS: 42.58536526423867,18.23054552078247|HR03U3||Konavle|32|Regular
+813088|Survey name: EB81.3; Start address: ; GPS: 43.008271863829016,17.47349739074707|HR03U2||Opuzen|33|Regular
+813089|Survey name: EB81.3; Start address: ; GPS: 43.00919762791908,17.47849702835083|HR03U2||Opuzen|33|Regular
+813090|Survey name: EB81.3; Start address: ; GPS: 42.68986451600478,18.034411668777466|HR03U2||Dubrovnik|34|Regular
+813091|Survey name: EB81.3; Start address: ; GPS: 42.69118936082351,18.038692474365234|HR03U2||Dubrovnik|34|Regular
+813092|Survey name: EB81.3; Start address: Ulica Milana Rešetara 36-38, 10000, Zagreb; GPS: 45.7990563,15.891259499999932|HR04U1||Gornji Grad Medveščak - Ulica Milana Rešetara 36-38|35|Regular
+813093|Survey name: EB81.3; Start address: Ulica Jurja Barakovića 14, 10000, Zagreb; GPS: 45.8033091,15.899847799999975|HR04U1||Gornji Grad Medveščak - Ulica Jurja Barakovića 14|35|Regular
+813094|Survey name: EB81.3; Start address: Ulica Slavka Batušića 25, 10000, Zagreb; GPS: 45.7985054,15.899380299999961|HR04U1||Gornji Grad Medveščak - Ulica Slavka Batušića 25|35|Regular
+813095|Survey name: EB81.3; Start address: Kotarnica ulica 14, 10000, Zagreb; GPS: 45.8042072,15.89341939999997|HR04U1||Gornji Grad Medveščak - Kotarnica ulica 14|35|Regular
+813096|Survey name: EB81.3; Start address: Hrnetička ulica 22, 10000, Zagreb; GPS: 45.80602140000001,15.891930900000034|HR04U1||Donja Dubrava - Hrnetička ulica 22|36|Regular
+813097|Survey name: EB81.3; Start address: Zubovačka ulica 4, 10000, Zagreb; GPS: 45.8115989,15.8985768|HR04U1||Donja Dubrava - Zubovačka ulica 4|36|Regular
+813098|Survey name: EB81.3; Start address: Malešnica ulica 27, 10000, Zagreb; GPS: 45.8081366,15.897951599999942|HR04U1||Donja Dubrava - Malešnica ulica 27|36|Regular
+813099|Survey name: EB81.3; Start address: Ulica Malešnica III 6, 10000, Zagreb; GPS: 45.8109282,15.894210199999975|HR04U1||Donja Dubrava - Ulica Malešnica III 6|36|Regular
+813100|Survey name: EB81.3; Start address: Ulica Donje Vrapče 45, 10000, Zagreb; GPS: 45.8083901,15.903529299999946|HR04U1||Črnomerec - Ulica Donje Vrapče 45|37|Regular
+813101|Survey name: EB81.3; Start address: Debanićeva ulica 1, 10000, Zagreb; GPS: 45.8128172,15.909260000000017|HR04U1||Črnomerec - Debanićeva ulica 1|37|Regular
+813102|Survey name: EB81.3; Start address: Majurečki put 22, 10000, Zagreb; GPS: 45.80837529999999,15.911640799999986|HR04U1||Črnomerec - Majurečki put 22|37|Regular
+813103|Survey name: EB81.3; Start address: Domagovićka ulica 1, 10000, Zagreb; GPS: 45.81022180000001,15.904807900000037|HR04U1||Črnomerec - Domagovićka ulica 1|37|Regular
+813104|Survey name: EB81.3; Start address: Demerje, 10251, Demerje; GPS: 45.7293326,15.886801300000002|HR04U1||Črnomerec - Demerje|38|Regular
+813105|Survey name: EB81.3; Start address: Demerje, 10251, Demerje; GPS: 45.7303862,15.88521609999998|HR04U1||Črnomerec - Demerje|38|Regular
+813106|Survey name: EB81.3; Start address: Demerje, 10251, Demerje; GPS: 45.7284665,15.879388100000028|HR04U1||Črnomerec - Demerje|38|Regular
+813107|Survey name: EB81.3; Start address: Demerje, 10251, Demerje; GPS: 45.7308169,15.88058860000001|HR04U1||Črnomerec - Demerje|38|Regular
+813108|Survey name: EB81.3; Start address: Posedarska ulica 102, 10000, Zagreb; GPS: 45.7619753,15.957013599999982|HR04U1||Trnje - Posedarska ulica 102|39|Regular
+813109|Survey name: EB81.3; Start address: Utinjska ulica odvojak I 13, 10000, Zagreb; GPS: 45.7647546,15.960828100000072|HR04U1||Trnje - Utinjska ulica odvojak I 13|39|Regular
+813110|Survey name: EB81.3; Start address: Glogovečka ulica 5, 10000, Zagreb; GPS: 45.759856,15.962419299999965|HR04U1||Trnje - Glogovečka ulica 5|39|Regular
+813111|Survey name: EB81.3; Start address: Malnarova ulica odvojak IV 4, 10000, Zagreb; GPS: 45.7625856,15.960817200000065|HR04U1||Trnje - Malnarova ulica odvojak IV 4|39|Regular
+813112|Survey name: EB81.3; Start address: Livanjska ulica 7, 10000, Zagreb; GPS: 45.7923506,15.942338999999947|HR04U1||Trešnjevka sjever - Livanjska ulica 7|40|Regular
+813113|Survey name: EB81.3; Start address: Gvozdanska ulica 26, 10000, Zagreb; GPS: 45.7950104,15.947992900000031|HR04U1||Trešnjevka sjever - Gvozdanska ulica 26|40|Regular
+813114|Survey name: EB81.3; Start address: Stolačka ulica 13, 10000, Zagreb; GPS: 45.7883105,15.951850700000023|HR04U1||Trešnjevka sjever - Stolačka ulica 13|40|Regular
+813115|Survey name: EB81.3; Start address: Mošćenička ulica 5, 10000, Zagreb; GPS: 45.79472639999999,15.943222500000047|HR04U1||Trešnjevka sjever - Mošćenička ulica 5|40|Regular
+813116|Survey name: EB81.3; Start address: Dugoselska ulica 29, 10000, Zagreb; GPS: 45.8044753,16.017184600000064|HR04U1||Trešnjevka sjever - Dugoselska ulica 29|41|Regular
+813117|Survey name: EB81.3; Start address: Šaškovečka ulica 29, 10000, Zagreb; GPS: 45.80287819999999,16.016207500000064|HR04U1||Trešnjevka sjever - Šaškovečka ulica 29|41|Regular
+813118|Survey name: EB81.3; Start address: Heinzelova ulica 69, 10000, Zagreb; GPS: 45.8014727,16.0122662|HR04U1||Trešnjevka sjever - Heinzelova ulica 69|41|Regular
+813119|Survey name: EB81.3; Start address: Andrilovečka ulica 28, 10000, Zagreb; GPS: 45.80237229999999,16.01681020000001|HR04U1||Trešnjevka sjever - Andrilovečka ulica 28|41|Regular
+813120|Survey name: EB81.3; Start address: Degidovečka ulica 19, 10000, Zagreb; GPS: 45.8361096,16.041054499999973|HR04U1||Novi Zagreb zapad - Degidovečka ulica 19|42|Regular
+813121|Survey name: EB81.3; Start address: Vinkuranska ulica 7, 10000, Zagreb; GPS: 45.8395899,16.038333899999998|HR04U1||Novi Zagreb zapad - Vinkuranska ulica 7|42|Regular
+813122|Survey name: EB81.3; Start address: Dravska ulica 12, 10000, Zagreb; GPS: 45.8374483,16.041979200000014|HR04U1||Novi Zagreb zapad - Dravska ulica 12|42|Regular
+813123|Survey name: EB81.3; Start address: Žuti dol 18, 10000, Zagreb; GPS: 45.8409778,16.03249260000007|HR04U1||Novi Zagreb zapad - Žuti dol 18|42|Regular
+813124|Survey name: EB81.3; Start address: Ulica Trnava I 39, 10000, Zagreb; GPS: 45.81670010000001,16.05763019999995|HR04U1||Novi Zagreb zapad - Ulica Trnava I 39|43|Regular
+813125|Survey name: EB81.3; Start address: Česmina ulica 22, 10000, Zagreb; GPS: 45.8197451,16.066058500000054|HR04U1||Novi Zagreb zapad - Česmina ulica 22|43|Regular
+813126|Survey name: EB81.3; Start address: Bagrema ulica 18, 10000, Zagreb; GPS: 45.8178289,16.066590700000006|HR04U1||Novi Zagreb zapad - Bagrema ulica 18|43|Regular
+813127|Survey name: EB81.3; Start address: Vinodolska ulica 87, 10000, Zagreb; GPS: 45.8219339,16.05815240000004|HR04U1||Novi Zagreb zapad - Vinodolska ulica 87|43|Regular
+813128|Survey name: EB81.3; Start address: Ulica Ivice Lovinčića 1, 10360, Sesvete; GPS: 45.8170178,16.126036099999965|HR04U1||Gornja Dubrava - Ulica Ivice Lovinčića 1|44|Regular
+813129|Survey name: EB81.3; Start address: Krapinska ulica 13b, 10360, Sesvete; GPS: 45.8215321,16.128910099999985|HR04U1||Gornja Dubrava - Krapinska ulica 13b|44|Regular
+813130|Survey name: EB81.3; Start address: Ulica Ignaca Puđaka odvojak I 10, 10360, Sesvete; GPS: 45.81633220000001,16.12897780000003|HR04U1||Gornja Dubrava - Ulica Ignaca Puđaka odvojak I 10|44|Regular
+813131|Survey name: EB81.3; Start address: Ulica Šime Ljubića 20, 10360, Sesvete; GPS: 45.8196938,16.125007099999948|HR04U1||Gornja Dubrava - Ulica Šime Ljubića 20|44|Regular
+813132|Survey name: EB81.3; Start address: Ulica Novački Vidikovac 2, 10000, Zagreb; GPS: 45.853237,16.03451999999993|HR04U1||Trešnjevka jug - Ulica Novački Vidikovac 2|45|Regular
+813133|Survey name: EB81.3; Start address: Cuglini ulica 18, 10000, Zagreb; GPS: 45.8540617,16.038630000000012|HR04U1||Trešnjevka jug - Cuglini ulica 18|45|Regular
+813134|Survey name: EB81.3; Start address: Severi ulica 12A, 10000, Zagreb; GPS: 45.8524718,16.03938679999999|HR04U1||Trešnjevka jug - Severi ulica 12A|45|Regular
+813135|Survey name: EB81.3; Start address: Dotršćinska ulica 74, 10000, Zagreb; GPS: 45.8583912,16.03156899999999|HR04U1||Trešnjevka jug - Dotršćinska ulica 74|45|Regular
+813136|Survey name: EB81.3; Start address: Durmitorska ulica 23, 10000, Zagreb; GPS: 45.8465242,15.96210480000002|HR04U1||Trešnjevka jug - Durmitorska ulica 23|46|Regular
+813137|Survey name: EB81.3; Start address: Mlinovi ulica 116, 10000, Zagreb; GPS: 45.8495934,15.961225300000024|HR04U1||Trešnjevka jug - Mlinovi ulica 116|46|Regular
+813138|Survey name: EB81.3; Start address: Gornje Prekrižje 80A, 10000, Zagreb; GPS: 45.8431404,15.963080499999933|HR04U1||Trešnjevka jug - Gornje Prekrižje 80A|46|Regular
+813139|Survey name: EB81.3; Start address: Ulica Šestinski vijenac 52, 10000, Zagreb; GPS: 45.8484997,15.95356049999998|HR04U1||Trešnjevka jug - Ulica Šestinski vijenac 52|46|Regular
+813140|Survey name: EB81.3; Start address: Vinogradska ulica 31-33, 10360, Vugrovec Donji; GPS: 45.8877208,16.110283699999968|HR04U1||Sesvete - Vinogradska ulica 31-33|47|Regular
+813141|Survey name: EB81.3; Start address: Poljaki ulica odvojak 6, 10362, Prekvršje; GPS: 45.89340929999999,16.114644699999985|HR04U1||Sesvete - Poljaki ulica odvojak 6|47|Regular
+813142|Survey name: EB81.3; Start address: Prigorska 19, 10362, Prekvršje; GPS: 45.8885497,16.114700599999992|HR04U1||Sesvete - Prigorska 19|47|Regular
+813143|Survey name: EB81.3; Start address: Ulica Kuntića Đure 20, 10362, Prekvršje; GPS: 45.89378869999999,16.11125590000006|HR04U1||Sesvete - Ulica Kuntića Đure 20|47|Regular
+813144|Survey name: EB81.3; Start address: Repišće 34A, 10450, Repišće; GPS: 45.72297289999999,15.708064199999967|HR04U3||Klinča Sela - Repišće 34A|48|Regular
+813145|Survey name: EB81.3; Start address: Repišće 70-71, 10450, Repišće; GPS: 45.7284419,15.701245299999982|HR04U3||Klinča Sela - Repišće 70-71|48|Regular
+813146|Survey name: EB81.3; Start address: Repišće 57, 10450, Repišće; GPS: 45.72525659999999,15.706569299999956|HR04U3||Klinča Sela - Repišće 57|48|Regular
+813147|Survey name: EB81.3; Start address: ; GPS: 45.844944860131655,16.54714822769165|HR04U3||Dubrava|49|Regular
+813148|Survey name: EB81.3; Start address: ; GPS: 45.84768765297013,16.551450490951538|HR04U3||Dubrava|49|Regular
+813149|Survey name: EB81.3; Start address: ; GPS: 45.84317355692388,16.554572582244873|HR04U3||Dubrava|49|Regular
+813150|Survey name: EB81.3; Start address: Podgorska ulica 79, 10298, Novaki Bistranski; GPS: 45.88868069999999,15.867130299999985|HR04U2||Bistra - Podgorska ulica 79|50|Regular
+813151|Survey name: EB81.3; Start address: Podgorska ulica 127, 10298, Poljanica Bistranska; GPS: 45.8941041,15.87413909999998|HR04U2||Bistra - Podgorska ulica 127|50|Regular
+813152|Survey name: EB81.3; Start address: Ulica Marovići II 10, 10436, Rakov Potok; GPS: 45.7348876,15.789125799999965|HR04U2||Samobor - Ulica Marovići II 10|51|Regular
+813153|Survey name: EB81.3; Start address: Karlovačka cesta 128, 10436, Rakov Potok; GPS: 45.7379881,15.795839|HR04U2||Samobor - Karlovačka cesta 128|51|Regular
+813154|Survey name: EB81.3; Start address: Ulica Augusta Šenoe 7, 10431, Brezje; GPS: 45.7887204,15.78899720000004|HR04U2||Sveta Nedelja - Ulica Augusta Šenoe 7|52|Regular
+813155|Survey name: EB81.3; Start address: Stubička ulica 6, 10431, Brezje; GPS: 45.7916441,15.788445000000024|HR04U2||Sveta Nedelja - Stubička ulica 6|52|Regular
+813156|Survey name: EB81.3; Start address: Šaškovečka ulica 124, 10370, Dugo Selo; GPS: 45.8153509,16.23982120000005|HR04U2||Dugo Selo - Šaškovečka ulica 124|53|Regular
+813157|Survey name: EB81.3; Start address: Martinska ulica 110, 10370, Dugo Selo; GPS: 45.8217371,16.24462870000002|HR04U2||Dugo Selo - Martinska ulica 110|53|Regular
+813158|Survey name: EB81.3; Start address: Ulica bana Josipa Jelačića 43, 10290, Zaprešić; GPS: 45.8622125,15.802933400000029|HR04U2||Zaprešić - Ulica bana Josipa Jelačića 43|54|Regular
+813159|Survey name: EB81.3; Start address: Ulica Ivana Mažuranića 27, 10290, Zaprešić; GPS: 45.8667631,15.800749499999938|HR04U2||Zaprešić - Ulica Ivana Mažuranića 27|54|Regular
+813160|Survey name: EB81.3; Start address: Prvonožina 1, 10418, Prvonožina; GPS: 45.591607,15.956406799999968|HR04U1||Velika Gorica - Prvonožina 1|55|Regular
+813161|Survey name: EB81.3; Start address: Prvonožina 1, 10418, Prvonožina; GPS: 45.593001,15.95861709999997|HR04U1||Velika Gorica - Prvonožina 1|55|Regular
+813162|Survey name: EB81.3; Start address: Prvonožina 2, 10418, Prvonožina; GPS: 45.5924159,15.958054100000027|HR04U1||Velika Gorica - Prvonožina 2|55|Regular
+813163|Survey name: EB81.3; Start address: Prvonožina 15, 10418, Prvonožina; GPS: 45.5904885,15.955515399999967|HR04U1||Velika Gorica - Prvonožina 15|55|Regular
+813164|Survey name: EB81.3; Start address: Jertovec 182, 49282, Jertovec; GPS: 46.0462067,16.189036299999998|HR04U3||Konjščina - Jertovec 182|56|Regular
+813165|Survey name: EB81.3; Start address: Jertovec 203B, 49282, Jertovec; GPS: 46.04794709999999,16.187023299999964|HR04U3||Konjščina - Jertovec 203B|56|Regular
+813166|Survey name: EB81.3; Start address: Jertovec 182A, 49282, Jertovec; GPS: 46.0452434,16.19222739999998|HR04U3||Konjščina - Jertovec 182A|56|Regular
+813167|Survey name: EB81.3; Start address: Gornja Pačetina 36, 49224, Gornja Pačetina; GPS: 46.1133213,15.876771200000007|HR04U2||Sveti Križ Začretje - Gornja Pačetina 36|57|Regular
+813168|Survey name: EB81.3; Start address: Gornja Pačetina 31, 49224, Gornja Pačetina; GPS: 46.1141685,15.88534089999996|HR04U2||Sveti Križ Začretje - Gornja Pačetina 31|57|Regular
+813169|Survey name: EB81.3; Start address: Martinišće 16-25, 49210, Martinišće; GPS: 46.027724,15.861952999999971|HR04U2||Zabok - Martinišće 16-25|58|Regular
+813170|Survey name: EB81.3; Start address: Martinišće 44, 49210, Martinišće; GPS: 46.0313816,15.860230999999999|HR04U2||Zabok - Martinišće 44|58|Regular
+813171|Survey name: EB81.3; Start address: Hum Zabočki 71B, 49210, Zabok; GPS: 46.0254237,15.92201799999998|HR04U2||Zabok - Hum Zabočki 71B|59|Regular
+813172|Survey name: EB81.3; Start address: Hum Zabočki 1C, 49210, Hum Zabočki; GPS: 46.0305036,15.925557099999992|HR04U2||Zabok - Hum Zabočki 1C|59|Regular
+813173|Survey name: EB81.3; Start address: ; GPS: 46.25617322443806,16.44649028778076|HR04U3||Jalžabet|60|Regular
+813174|Survey name: EB81.3; Start address: ; GPS: 46.2556836147729,16.4454174041748|HR04U3||Jalžabet|60|Regular
+813175|Survey name: EB81.3; Start address: ; GPS: 46.25388834193398,16.446361541748047|HR04U3||Jalžabet|60|Regular
+813176|Survey name: EB81.3; Start address: Kučanska ulica 30, 42204, Donji Kneginec; GPS: 46.2631531,16.38267399999995|HR04U2||Gornji Kneginec - Kučanska ulica 30|61|Regular
+813177|Survey name: EB81.3; Start address: Kučanska ulica 24, 42204, Donji Kneginec; GPS: 46.2624242,16.38271450000002|HR04U2||Gornji Kneginec - Kučanska ulica 24|61|Regular
+813178|Survey name: EB81.3; Start address: Kaniža 44, 42240, Kaniža; GPS: 46.2178859,16.088895099999945|HR04U2||Lepoglava - Kaniža 44|62|Regular
+813179|Survey name: EB81.3; Start address: Kaniža 35B, 42240, Kaniža; GPS: 46.2237056,16.091817399999968|HR04U2||Lepoglava - Kaniža 35B|62|Regular
+813180|Survey name: EB81.3; Start address: Ulica Ljudevita Gaja 16, 42209, Sračinec; GPS: 46.3243157,16.29115539999998|HR04U2||Sračinec - Ulica Ljudevita Gaja 16|63|Regular
+813181|Survey name: EB81.3; Start address: Ulica kralja Tomislava 8, 42000, Hrašćica; GPS: 46.32415779999999,16.295939299999986|HR04U2||Sračinec - Ulica kralja Tomislava 8|63|Regular
+813182|Survey name: EB81.3; Start address: Radnička ulica 97, 42202, Trnovec Bartolovečki; GPS: 46.2921173,16.393170699999928|HR04U2||Varaždin - Radnička ulica 97|64|Regular
+813183|Survey name: EB81.3; Start address: Ulica kralja Tomislava 13, 42202, Trnovec Bartolovečki; GPS: 46.2955192,16.39859409999997|HR04U2||Varaždin - Ulica kralja Tomislava 13|64|Regular
+813184|Survey name: EB81.3; Start address: Selnica Podravska 9, 48317, Selnica Podravska; GPS: 46.29248,16.775937200000044|HR04U3||Peteranec - Selnica Podravska 9|65|Regular
+813185|Survey name: EB81.3; Start address: Selnica Podravska 864, 48317, Selnica Podravska; GPS: 46.2933015,16.77999079999995|HR04U3||Peteranec - Selnica Podravska 864|65|Regular
+813186|Survey name: EB81.3; Start address: ; GPS: 46.29334852865916,16.78510308265686|HR04U3||Peteranec|65|Regular
+813187|Survey name: EB81.3; Start address: ; GPS: 46.14994439554178,16.57512903213501|HR04U2||Križevci|66|Regular
+813188|Survey name: EB81.3; Start address: ; GPS: 46.146703663464976,16.57485008239746|HR04U2||Križevci|66|Regular
+813189|Survey name: EB81.3; Start address: Starogradska ulica 144, 48000, Koprivnica; GPS: 46.1501486,16.81830560000003|HR04U2||Koprivnica - Starogradska ulica 144|67|Regular
+813190|Survey name: EB81.3; Start address: Ulica kraljice Jelene 10, 48000, Koprivnica; GPS: 46.1516425,16.822061299999973|HR04U2||Koprivnica - Ulica kraljice Jelene 10|67|Regular
+813191|Survey name: EB81.3; Start address: Ulica Josipa Slavenskog 52A, 40000, Ivanovec; GPS: 46.3669987,16.481053599999996|HR04U2||Mala Subotica - Ulica Josipa Slavenskog 52A|68|Regular
+813192|Survey name: EB81.3; Start address: Grabanica ulica 30A, 40000, Ivanovec; GPS: 46.3695323,16.48448810000002|HR04U2||Mala Subotica - Grabanica ulica 30A|68|Regular
+813193|Survey name: EB81.3; Start address: Trnovec 68A, 40306, Trnovec; GPS: 46.3838445,16.314094100000034|HR04U2||Nedelišće - Trnovec 68A|69|Regular
+813194|Survey name: EB81.3; Start address: Ulica Miroslava Krleže 8, 40306, Macinec; GPS: 46.3891827,16.322824099999934|HR04U2||Nedelišće - Ulica Miroslava Krleže 8|69|Regular
+813195|Survey name: EB81.3; Start address: Ulica Josipa Bedekovića 40, 40000, Šenkovec; GPS: 46.4110626,16.419766200000026|HR04U2||Čakovec - Ulica Josipa Bedekovića 40|70|Regular
+813196|Survey name: EB81.3; Start address: Budina ulica 4, 40000, Šenkovec; GPS: 46.4156876,16.419206600000052|HR04U2||Čakovec - Budina ulica 4|70|Regular
+813197|Survey name: EB81.3; Start address: Ulica kralja Zvonimira 12A, 40000, Čakovec; GPS: 46.3848413,16.443037300000015|HR04U2||Čakovec - Ulica kralja Zvonimira 12A|71|Regular
+813198|Survey name: EB81.3; Start address: Ulica Stjepana Bencea 2, 40000, Čakovec; GPS: 46.3892408,16.443254799999977|HR04U2||Čakovec - Ulica Stjepana Bencea 2|71|Regular
+813199|Survey name: EB81.3; Start address: Podgorci 90B, 43211, Podgorci; GPS: 45.9664764,16.803748799999994|HR04U3||Rovišće - Podgorci 90B|72|Regular
+813200|Survey name: EB81.3; Start address: Kobasičari 140A, 43211, Kobasičari; GPS: 45.9637115,16.811713499999996|HR04U3||Rovišće - Kobasičari 140A|72|Regular
+813201|Survey name: EB81.3; Start address: Kobasičari 55, 43211, Kobasičari; GPS: 45.960773,16.809718799999928|HR04U3||Rovišće - Kobasičari 55|72|Regular
+813202|Survey name: EB81.3; Start address: Končanica 30, 43505, Končanica; GPS: 45.6327329,17.20225000000005|HR04U2||Đulovac - Končanica 30|73|Regular
+813203|Survey name: EB81.3; Start address: Dioš 34, 43505, Dioš; GPS: 45.6348418,17.207144599999992|HR04U2||Đulovac - Dioš 34|73|Regular
+813204|Survey name: EB81.3; Start address: Ulica don Frane Bulića 26, 43000, Bjelovar; GPS: 45.9001162,16.83209809999994|HR04U2||Bjelovar - Ulica don Frane Bulića 26|74|Regular
+813205|Survey name: EB81.3; Start address: Ulica Bogoslava Šuleka 6, 43000, Bjelovar; GPS: 45.9031219,16.836366399999974|HR04U2||Bjelovar - Ulica Bogoslava Šuleka 6|74|Regular
+813206|Survey name: EB81.3; Start address: ; GPS: 45.54985810066429,17.70849108695984|HR04U2||Čačinci|75|Regular
+813207|Survey name: EB81.3; Start address: ; GPS: 45.55193924035116,17.71223545074463|HR04U2||Čačinci|75|Regular
+813208|Survey name: EB81.3; Start address: ; GPS: 45.723993266054585,17.640588283538815|HR04U2||Slatina|76|Regular
+813209|Survey name: EB81.3; Start address: ; GPS: 45.7303743534349,17.637133598327637|HR04U2||Slatina|76|Regular
+813210|Survey name: EB81.3; Start address: Rezovački put 33, 33000, Rezovac; GPS: 45.8085677,17.40788120000002|HR04U2||Virovitica - Rezovački put 33|77|Regular
+813211|Survey name: EB81.3; Start address: Podravska ulica 92, 33000, Virovitica; GPS: 45.8130546,17.412081400000034|HR04U2||Virovitica - Podravska ulica 92|77|Regular
+813212|Survey name: EB81.3; Start address: ; GPS: 45.323306231354614,17.637155055999756|HR04U3||Brestovac|78|Regular
+813213|Survey name: EB81.3; Start address: ; GPS: 45.327349405091965,17.63932228088379|HR04U3||Brestovac|78|Regular
+813214|Survey name: EB81.3; Start address: ; GPS: 45.32525242189873,17.636597156524658|HR04U3||Brestovac|78|Regular
+813215|Survey name: EB81.3; Start address: Ulica Vilima Korajca 27, 34000, Požega; GPS: 45.3403514,17.65208800000005|HR04U2||Požega - Ulica Vilima Korajca 27|79|Regular
+813216|Survey name: EB81.3; Start address: Ulica Eugena Kvaternika 100, 34000, Požega; GPS: 45.3434705,17.658466699999963|HR04U2||Požega - Ulica Eugena Kvaternika 100|79|Regular
+813217|Survey name: EB81.3; Start address: ; GPS: 45.37557366665447,17.361059188842773|HR04U3||Dragalić|80|Regular
+813218|Survey name: EB81.3; Start address: ; GPS: 45.37558873973457,17.36466407775879|HR04U3||Dragalić|80|Regular
+813219|Survey name: EB81.3; Start address: ; GPS: 45.376689063730566,17.363054752349853|HR04U3||Dragalić|80|Regular
+813220|Survey name: EB81.3; Start address: Ulica kralja Dmitra Zvonimira 263, 35400, Nova Gradiška; GPS: 45.2309955,17.38620979999996|HR04U2||Nova Gradiška - Ulica kralja Dmitra Zvonimira 263|81|Regular
+813221|Survey name: EB81.3; Start address: Posavska ulica 7, 35400, Nova Gradiška; GPS: 45.2349659,17.388067999999976|HR04U2||Nova Gradiška - Posavska ulica 7|81|Regular
+813222|Survey name: EB81.3; Start address: Ulica doktor Franje Tuđmana, 35000, Gromačnik; GPS: 45.1783061,17.959030900000016|HR04U1||Slavonski Brod - Ulica doktor Franje Tuđmana|82|Regular
+813223|Survey name: EB81.3; Start address: Požeška ulica 164, 35000, Slavonski Brod; GPS: 45.1790144,17.967346200000065|HR04U1||Slavonski Brod - Požeška ulica 164|82|Regular
+813224|Survey name: EB81.3; Start address: Ulica doktor Franje Tuđmana, 35000; GPS: 45.1785733,17.963199499999973|HR04U1||Slavonski Brod - Ulica doktor Franje Tuđmana|82|Regular
+813225|Survey name: EB81.3; Start address: Ulica doktor Franje Tuđmana, 35252, Gromačnik; GPS: 45.1829701,17.958849099999952|HR04U1||Slavonski Brod - Ulica doktor Franje Tuđmana|82|Regular
+813226|Survey name: EB81.3; Start address: Vjetrovita ulica 35, 31208, Petrijevci; GPS: 45.6104194,18.52598940000007|HR04U3||Čeminac - Vjetrovita ulica 35|83|Regular
+813227|Survey name: EB81.3; Start address: Vjetrovita ulica 3, 31208, Petrijevci; GPS: 45.6109831,18.53179840000007|HR04U3||Čeminac - Vjetrovita ulica 3|83|Regular
+813228|Survey name: EB81.3; Start address: Kolodvorska ulica 48, 31208, Petrijevci; GPS: 45.60697829999999,18.531877099999974|HR04U3||Čeminac - Kolodvorska ulica 48|83|Regular
+813229|Survey name: EB81.3; Start address: Ulica Hrvatske Republike 6, 31216, Antunovac; GPS: 45.4870244,18.671767700000032|HR04U2||Antunovac - Ulica Hrvatske Republike 6|84|Regular
+813230|Survey name: EB81.3; Start address: Ulica Ante Starčevića 1, 31216, Antunovac; GPS: 45.4914587,18.674340700000016|HR04U2||Antunovac - Ulica Ante Starčevića 1|84|Regular
+813231|Survey name: EB81.3; Start address: ; GPS: 45.662481790021815,18.776042461395264|HR04U2||Bilje|85|Regular
+813232|Survey name: EB81.3; Start address: ; GPS: 45.664453784397644,18.769551515579224|HR04U2||Bilje|85|Regular
+813233|Survey name: EB81.3; Start address: Ulica dr. Ante Starčevića 7, 31300, Beli Manastir; GPS: 45.7706982,18.595032100000026|HR04U2||Beli Manastir - Ulica dr. Ante Starčevića 7|86|Regular
+813234|Survey name: EB81.3; Start address: Zagrebačka ulica 15, 31300, Beli Manastir; GPS: 45.7739055,18.59624759999997|HR04U2||Beli Manastir - Zagrebačka ulica 15|86|Regular
+813235|Survey name: EB81.3; Start address: Certiše ulica 1, 31400, Đakovo; GPS: 45.2933967,18.410706000000005|HR04U2||Đakovo - Certiše ulica 1|87|Regular
+813236|Survey name: EB81.3; Start address: Ulica Otona Ivekovića 20, 31400, Đakovo; GPS: 45.2995144,18.409161100000006|HR04U2||Đakovo - Ulica Otona Ivekovića 20|87|Regular
+813237|Survey name: EB81.3; Start address: Ulica Jovana Gojkovića 21, 31000, Osijek; GPS: 45.5596749,18.717688599999974|HR04U1||Osijek - Ulica Jovana Gojkovića 21|88|Regular
+813238|Survey name: EB81.3; Start address: Ulica Mije Kišpatića 63, 31000, Osijek; GPS: 45.5605337,18.725597900000025|HR04U1||Osijek - Ulica Mije Kišpatića 63|88|Regular
+813239|Survey name: EB81.3; Start address: Crkvena ulica 45, 31000, Osijek; GPS: 45.5591149,18.7220466|HR04U1||Osijek - Crkvena ulica 45|88|Regular
+813240|Survey name: EB81.3; Start address: Grmić ulica, 31000, Podravlje; GPS: 45.5663589,18.719067499999937|HR04U1||Osijek - Grmić ulica|88|Regular
+813241|Survey name: EB81.3; Start address: Prenjska ulica 6, 31000, Osijek; GPS: 45.5599989,18.653768300000024|HR04U1||Osijek - Prenjska ulica 6|89|Regular
+813242|Survey name: EB81.3; Start address: Ulica Antuna Kanižlića 58, 31000, Osijek; GPS: 45.5584492,18.661905700000034|HR04U1||Osijek - Ulica Antuna Kanižlića 58|89|Regular
+813243|Survey name: EB81.3; Start address: Kozjačka ulica 2A, 31000, Osijek; GPS: 45.56042859999999,18.658141200000046|HR04U1||Osijek - Kozjačka ulica 2A|89|Regular
+813244|Survey name: EB81.3; Start address: Plješivička ulica 52, 31000, Osijek; GPS: 45.5635847,18.651862100000017|HR04U1||Osijek - Plješivička ulica 52|89|Regular
+813245|Survey name: EB81.3; Start address: ; GPS: 45.26164228254991,18.909122943878174|HR04U3||Stari Jankovci|90|Regular
+813246|Survey name: EB81.3; Start address: ; GPS: 45.262895852597076,18.914895057678223|HR04U3||Stari Jankovci|90|Regular
+813247|Survey name: EB81.3; Start address: ; GPS: 45.257654839570684,18.910882472991943|HR04U3||Stari Jankovci|90|Regular
+813248|Survey name: EB81.3; Start address: Mala Cerna 94, 32272, Cerna; GPS: 45.1782328,18.680188999999928|HR04U2||Andrijaševci - Mala Cerna 94|91|Regular
+813249|Survey name: EB81.3; Start address: Mala Cerna 43, 32272, Cerna; GPS: 45.1790617,18.685553000000027|HR04U2||Andrijaševci - Mala Cerna 43|91|Regular
+813250|Survey name: EB81.3; Start address: Ulica Gorjani 68, 32281, Ivankovo; GPS: 45.2855056,18.679529099999968|HR04U2||Ivankovo - Ulica Gorjani 68|92|Regular
+813251|Survey name: EB81.3; Start address: Ulica Rojčani, 32281, Ivankovo; GPS: 45.2849628,18.685936699999957|HR04U2||Ivankovo - Ulica Rojčani|92|Regular
+813252|Survey name: EB81.3; Start address: Štitarska ulica 157, 32270, Županja; GPS: 45.1014528,18.689769899999988|HR04U2||Županja - Štitarska ulica 157|93|Regular
+813253|Survey name: EB81.3; Start address: Štitarska ulica 74, 32270, Županja; GPS: 45.1019044,18.689461800000004|HR04U2||Županja - Štitarska ulica 74|93|Regular
+813254|Survey name: EB81.3; Start address: Ulica kralja Krešimira 21, 32100, Vinkovci; GPS: 45.3038399,18.801845100000037|HR04U2||Vinkovci - Ulica kralja Krešimira 21|94|Regular
+813255|Survey name: EB81.3; Start address: Slavija ulica 98, 32100, Vinkovci; GPS: 45.3089226,18.80298259999995|HR04U2||Vinkovci - Slavija ulica 98|94|Regular
+813256|Survey name: EB81.3; Start address: Ulica Slave Raškaj 15, 47280, Ozalj; GPS: 45.6143241,15.46685720000005|HR04U3||Ozalj - Ulica Slave Raškaj 15|95|Regular
+813257|Survey name: EB81.3; Start address: Vrhovački Sopot 26, 47280, Vrhovački Sopot; GPS: 45.620438,15.472271800000044|HR04U3||Ozalj - Vrhovački Sopot 26|95|Regular
+813258|Survey name: EB81.3; Start address: Kupska ulica 14, 47280, Požun; GPS: 45.6160728,15.472632799999928|HR04U3||Ozalj - Kupska ulica 14|95|Regular
+813259|Survey name: EB81.3; Start address: Zagrebačka ulica, 47201, Draganić; GPS: 45.5681846,15.59039000000007|HR04U2||Draganić - Zagrebačka ulica|96|Regular
+813260|Survey name: EB81.3; Start address: D1, 47201, Draganić; GPS: 45.5748817,15.593192600000066|HR04U2||Draganić - D1|96|Regular
+813261|Survey name: EB81.3; Start address: Goljaki Turanjski 80A, 47000, Karlovac; GPS: 45.4411274,15.569154400000002|HR04U1||Karlovac - Goljaki Turanjski 80A|97|Regular
+813262|Survey name: EB81.3; Start address: Goljaki Turanjski 39A, 47000, Karlovac; GPS: 45.4438598,15.570765100000017|HR04U1||Karlovac - Goljaki Turanjski 39A|97|Regular
+813263|Survey name: EB81.3; Start address: Goljaki Turanjski 72A, 47000, Karlovac; GPS: 45.4426502,15.569832499999961|HR04U1||Karlovac - Goljaki Turanjski 72A|97|Regular
+813264|Survey name: EB81.3; Start address: Goljaki Turanjski 40, 47000, Karlovac; GPS: 45.4460665,15.568464199999994|HR04U1||Karlovac - Goljaki Turanjski 40|97|Regular
+813265|Survey name: EB81.3; Start address: ; GPS: 45.36735824022548,16.571996212005615|HR04U3||Sunja|98|Regular
+813266|Survey name: EB81.3; Start address: ; GPS: 45.370403363150864,16.579205989837646|HR04U3||Sunja|98|Regular
+813267|Survey name: EB81.3; Start address: ; GPS: 45.3693632158343,16.574785709381104|HR04U3||Sunja|98|Regular
+813268|Survey name: EB81.3; Start address: ; GPS: 45.350878568325086,17.06526517868042|HR04U2||Novska|99|Regular
+813269|Survey name: EB81.3; Start address: ; GPS: 45.349913461657756,17.058463096618652|HR04U2||Novska|99|Regular
+813270|Survey name: EB81.3; Start address: Ulica Kutinska Lipa 126, 44320, Kutina; GPS: 45.5036328,16.753989400000023|HR04U2||Kutina - Ulica Kutinska Lipa 126|100|Regular
+813271|Survey name: EB81.3; Start address: ; GPS: 45.5104822502485,16.76161766052246|HR04U2||Kutina|100|Regular
+813272|Survey name: EB81.3; Start address: Obala Tome Bakača Erdoedyja 31, 44000, Sisak; GPS: 45.4806354,16.384221499999967|HR04U2||Sisak - Obala Tome Bakača Erdoedyja 31|101|Regular
+813273|Survey name: EB81.3; Start address: Ulica Ive Rukavine Siđe 67, 44000, Sisak; GPS: 45.4841212,16.386460199999988|HR04U2||Sisak - Ulica Ive Rukavine Siđe 67|101|Regular
+813274|Survey name: EB81.3; Start address: Ulica Capraške Poljane, 44000, Sisak; GPS: 45.442259,16.403094900000042|HR04U2||Sisak - Ulica Capraške Poljane|102|Regular
+813275|Survey name: EB81.3; Start address: Ulica Rade Končara 29, 44000, Sisak; GPS: 45.4469502,16.403718099999992|HR04U2||Sisak - Ulica Rade Končara 29|102|Regular
+813276|Survey name: EB81.3; Start address: Goranska ulica, 51260, Crikvenica; GPS: 45.1750602,14.698683599999981|HR03U2||Crikvenica - Goranska ulica|103|Spare
+813277|Survey name: EB81.3; Start address: Goranska ulica, 51260, Crikvenica; GPS: 45.1759375,14.703138599999988|HR03U2||Crikvenica - Goranska ulica|103|Spare
+813278|Survey name: EB81.3; Start address: Strilčići 3, 51511, Strilčići; GPS: 45.0924524,14.521217100000058|HR03U3||Malinska Dubašnica - Strilčići 3|104|Spare
+813279|Survey name: EB81.3; Start address: ; GPS: 45.09942701798529,14.526243209838867|HR03U3||Malinska Dubašnica|104|Spare
+813280|Survey name: EB81.3; Start address: Sabljići 8, 51511, Sabljići; GPS: 45.0988365,14.514877299999966|HR03U3||Malinska Dubašnica - Sabljići 8|104|Spare
+813281|Survey name: EB81.3; Start address: ; GPS: 45.422326098268385,14.932651519775389|HR03U3||Skrad|106|Spare
+813282|Survey name: EB81.3; Start address: ; GPS: 45.42303394275456,14.932458400726318|HR03U3||Skrad|106|Spare
+813283|Survey name: EB81.3; Start address: ; GPS: 45.421693548878274,14.932200908660889|HR03U3||Skrad|106|Spare
+813284|Survey name: EB81.3; Start address: ; GPS: 44.52080557683021,14.500526189804077|HR03U2||Mali Lošinj|108|Spare
+813285|Survey name: EB81.3; Start address: ; GPS: 44.51937508108684,14.499496221542357|HR03U2||Mali Lošinj|108|Spare
+813286|Survey name: EB81.3; Start address: Grivac 15, 1336 Kostel; GPS: 45.4636848,14.842429100000004|HR03U2||Delnice - Grivac 15|109|Spare
+813287|Survey name: EB81.3; Start address: Grivac 1, 1336 Kostel; GPS: 45.4638633,14.844776700000011|HR03U2||Delnice - Grivac 1|109|Spare
+813288|Survey name: EB81.3; Start address: ; GPS: 45.047981451470456,14.530073404312132|HR03U2||Krk|110|Spare
+813289|Survey name: EB81.3; Start address: ; GPS: 45.051392384384414,14.529290199279785|HR03U2||Krk|110|Spare
+813290|Survey name: EB81.3; Start address: D8, 21314, Jesenice; GPS: 43.4579594,16.609955300000024|HR03U2||Dugi Rat - D8|113|Spare
+813291|Survey name: EB81.3; Start address: Sita ulica, 21314, Jesenice; GPS: 43.4565566,16.618807100000026|HR03U2||Dugi Rat - Sita ulica|113|Spare
+813292|Survey name: EB81.3; Start address: ; GPS: 43.40618549624037,16.901553869247437|HR03U3||Brela|114|Spare
+813293|Survey name: EB81.3; Start address: ; GPS: 43.405335889274234,16.90198302268982|HR03U3||Brela|114|Spare
+813294|Survey name: EB81.3; Start address: ; GPS: 43.40666875360167,16.901317834854126|HR03U3||Brela|114|Spare
+813295|Survey name: EB81.3; Start address: ; GPS: 43.598232844664274,16.58339023590088|HR03U2||Dugopolje|116|Spare
+813296|Survey name: EB81.3; Start address: ; GPS: 43.596927512610506,16.59132957458496|HR03U2||Dugopolje|116|Spare
+813297|Survey name: EB81.3; Start address: ; GPS: 43.470541675047,17.262407541275024|HR03U2||Imotski|117|Spare
+813298|Survey name: EB81.3; Start address: ; GPS: 43.468361494472646,17.251152992248535|HR03U2||Imotski|117|Spare
+813299|Survey name: EB81.3; Start address: ; GPS: 43.49666657644316,16.859700679779053|HR03U3||Šestanovac|118|Spare
+813300|Survey name: EB81.3; Start address: ; GPS: 43.49684558178219,16.858971118927002|HR03U3||Šestanovac|118|Spare
+813301|Survey name: EB81.3; Start address: ; GPS: 43.49623851804598,16.8605375289917|HR03U3||Šestanovac|118|Spare
+813302|Survey name: EB81.3; Start address: ; GPS: 43.18128788045737,16.671624183654785|HR03U3||Jelsa|119|Spare
+813303|Survey name: EB81.3; Start address: ; GPS: 43.18307158574089,16.66954278945923|HR03U3||Jelsa|119|Spare
+813304|Survey name: EB81.3; Start address: ; GPS: 43.18188245467556,16.669113636016842|HR03U3||Jelsa|119|Spare
+813305|Survey name: EB81.3; Start address: ; GPS: 43.74223556889773,16.489899158477783|HR03U3||Muć|120|Spare
+813306|Survey name: EB81.3; Start address: ; GPS: 43.739507109017445,16.489641666412354|HR03U3||Muć|120|Spare
+813307|Survey name: EB81.3; Start address: ; GPS: 43.74068532285585,16.491208076477047|HR03U3||Muć|120|Spare
+813308|Survey name: EB81.3; Start address: ; GPS: 45.27932563302657,13.84202241897583|HR03U3||Karojba|121|Spare
+813309|Survey name: EB81.3; Start address: ; GPS: 45.2803825332626,13.841131925582884|HR03U3||Karojba|121|Spare
+813310|Survey name: EB81.3; Start address: ; GPS: 45.28100911482108,13.844972848892212|HR03U3||Karojba|121|Spare
+813311|Survey name: EB81.3; Start address: ; GPS: 45.179866418041335,14.006195068359375|HR03U3||Gračišće|123|Spare
+813312|Survey name: EB81.3; Start address: ; GPS: 45.17473875820263,14.001259803771973|HR03U3||Gračišće|123|Spare
+813313|Survey name: EB81.3; Start address: ; GPS: 45.1780740584668,14.012879133224487|HR03U3||Gračišće|123|Spare
+813314|Survey name: EB81.3; Start address: ; GPS: 45.25855354908023,13.776479959487915|HR03U3||Višnjan  Visignano|124|Spare
+813315|Survey name: EB81.3; Start address: ; GPS: 45.25801734595843,13.773808479309082|HR03U3||Višnjan  Visignano|124|Spare
+813316|Survey name: EB81.3; Start address: ; GPS: 45.26185373004066,13.776426315307617|HR03U3||Višnjan  Visignano|124|Spare
+813317|Survey name: EB81.3; Start address: ; GPS: 45.38330562911577,13.539447784423828|HR03U2||Umag  Umago|125|Spare
+813318|Survey name: EB81.3; Start address: ; GPS: 45.38033656000826,13.542602062225342|HR03U2||Umag  Umago|125|Spare
+813319|Survey name: EB81.3; Start address: D414, 20244, Donja Banda; GPS: 42.9696228,17.291044400000033|HR03U3||Orebić - D414|126|Spare
+813320|Survey name: EB81.3; Start address: D414, 20244, Donja Banda; GPS: 42.9719736,17.29300109999997|HR03U3||Orebić - D414|126|Spare
+813321|Survey name: EB81.3; Start address: D414, 20242, Donja Banda; GPS: 42.96973939999999,17.29890660000001|HR03U3||Orebić - D414|126|Spare
+813322|Survey name: EB81.3; Start address: Ulica Svetog Benedikta, 10255, Gornji Stupnik; GPS: 45.7539977,15.840756800000008|HR04U2||Stupnik - Ulica Svetog Benedikta|133|Spare
+813323|Survey name: EB81.3; Start address: Gornjostupnička, 10255, Gornji Stupnik; GPS: 45.75664039999999,15.847424199999978|HR04U2||Stupnik - Gornjostupnička|133|Spare
+813324|Survey name: EB81.3; Start address: Ulica Svete Doroteje, 10297, Jakovlje; GPS: 45.936386,15.867640800000004|HR04U2||Jakovlje - Ulica Svete Doroteje|134|Spare
+813325|Survey name: EB81.3; Start address: ; GPS: 45.93816871842267,15.867648124694826|HR04U2||Jakovlje|134|Spare
+813326|Survey name: EB81.3; Start address: Dubravička ulica 2, 10292, Harmica; GPS: 45.8924358,15.685727499999985|HR04U2||Brdovec - Dubravička ulica 2|135|Spare
+813327|Survey name: EB81.3; Start address: Ulica Ivana Štrbulca 18, 10292, Šenkovec; GPS: 45.89381239999999,15.693729399999938|HR04U2||Brdovec - Ulica Ivana Štrbulca 18|135|Spare
+813328|Survey name: EB81.3; Start address: ; GPS: 45.91112273667356,16.481938362121582|HR04U3||Gradec|136|Spare
+813329|Survey name: EB81.3; Start address: ; GPS: 45.91346664645894,16.48073673248291|HR04U3||Gradec|136|Spare
+813330|Survey name: EB81.3; Start address: ; GPS: 45.91149597734222,16.48427724838257|HR04U3||Gradec|136|Spare
+813331|Survey name: EB81.3; Start address: Širinec 85, 10314, Širinec; GPS: 45.6754383,16.493051299999934|HR04U3||Križ - Širinec 85|137|Spare
+813332|Survey name: EB81.3; Start address: Širinec 14, 10314, Širinec; GPS: 45.6755078,16.500721200000044|HR04U3||Križ - Širinec 14|137|Spare
+813333|Survey name: EB81.3; Start address: Širinec 23, 10314, Širinec; GPS: 45.6732574,16.500307099999986|HR04U3||Križ - Širinec 23|137|Spare
+813334|Survey name: EB81.3; Start address: Jamnica Pisarovinska 11, 10451, Jamnica Pisarovinska; GPS: 45.5961963,15.87730190000002|HR04U3||Pisarovina - Jamnica Pisarovinska 11|138|Spare
+813335|Survey name: EB81.3; Start address: Jamnica Pisarovinska 5H, 10451, Jamnica Pisarovinska; GPS: 45.6017435,15.87788820000003|HR04U3||Pisarovina - Jamnica Pisarovinska 5H|138|Spare
+813336|Survey name: EB81.3; Start address: Jamnica Pisarovinska 12, 10451, Jamnica Pisarovinska; GPS: 45.5970908,15.8804394|HR04U3||Pisarovina - Jamnica Pisarovinska 12|138|Spare
+813337|Survey name: EB81.3; Start address: Dijaneš 50, 10340, Dijaneš; GPS: 45.9041296,16.352585599999998|HR04U3||Vrbovec - Dijaneš 50|139|Spare
+813338|Survey name: EB81.3; Start address: Dijaneš 9, 10340, Dijaneš; GPS: 45.9039721,16.36166120000007|HR04U3||Vrbovec - Dijaneš 9|139|Spare
+813339|Survey name: EB81.3; Start address: Dijaneš 68, 10340, Dijaneš; GPS: 45.9025372,16.356099500000028|HR04U3||Vrbovec - Dijaneš 68|139|Spare
+813340|Survey name: EB81.3; Start address: Ulica Harina Zlaka 8, 49296, Harina Žlaka; GPS: 46.1646063,15.607496999999967|HR04U3||Zagorska Sela - Ulica Harina Zlaka 8|140|Spare
+813341|Survey name: EB81.3; Start address: Ulica Harina Zlaka 15A, 49296, Harina Žlaka; GPS: 46.1647506,15.610119700000041|HR04U3||Zagorska Sela - Ulica Harina Zlaka 15A|140|Spare
+813342|Survey name: EB81.3; Start address: Bojačno 3B, 49296, Bojačno; GPS: 46.165257,15.617946399999937|HR04U3||Zagorska Sela - Bojačno 3B|140|Spare
+813343|Survey name: EB81.3; Start address: Ulica Rudolfa Jakuša-Španca 30, 49222, Lug Poznanovečki; GPS: 46.0490967,16.02068829999996|HR04U2||Zlatar Bistrica - Ulica Rudolfa Jakuša-Španca 30|141|Spare
+813344|Survey name: EB81.3; Start address: Ulica Zagorske brigade 10A, 49222, Poznanovec; GPS: 46.0500986,16.02719460000003|HR04U2||Zlatar Bistrica - Ulica Zagorske brigade 10A|141|Spare
+813345|Survey name: EB81.3; Start address: Hum na Sutli 11, 49231, Hum na Sutli; GPS: 46.2104645,15.699503400000026|HR04U2||Hum na Sutli - Hum na Sutli 11|142|Spare
+813346|Survey name: EB81.3; Start address: Hum na Sutli 46, 49231, Hum na Sutli; GPS: 46.2140802,15.701024999999959|HR04U2||Hum na Sutli - Hum na Sutli 46|142|Spare
+813347|Survey name: EB81.3; Start address: Prosenik 37-38, 49215, Prosenik; GPS: 46.0915402,15.737581299999988|HR04U3||Desinić - Prosenik 37-38|143|Spare
+813348|Survey name: EB81.3; Start address: Prosenik 8, 49215, Prosenik; GPS: 46.0946661,15.743044300000065|HR04U3||Desinić - Prosenik 8|143|Spare
+813349|Survey name: EB81.3; Start address: Prosenik 102, 49215, Prosenik; GPS: 46.0892321,15.737162300000023|HR04U3||Desinić - Prosenik 102|143|Spare
+813350|Survey name: EB81.3; Start address: ; GPS: 46.15609828810909,15.899512767791746|HR04U2||Krapina|144|Spare
+813351|Survey name: EB81.3; Start address: Straža Krapinska, 49232, Orehovec Radobojski; GPS: 46.153637,15.89804950000007|HR04U2||Krapina - Straža Krapinska|144|Spare
+813352|Survey name: EB81.3; Start address: Zagorska ulica 33, 49221, Bedekovčina; GPS: 46.0447396,15.977092099999936|HR04U2||Bedekovčina - Zagorska ulica 33|145|Spare
+813353|Survey name: EB81.3; Start address: Zagorska ulica 53, 49221, Bedekovčina; GPS: 46.0506882,15.971210199999973|HR04U2||Bedekovčina - Zagorska ulica 53|145|Spare
+813354|Survey name: EB81.3; Start address: Brezovica Petrovska 17, 49225, Brezovica Petrovska; GPS: 46.1884357,15.825754800000027|HR04U3||Đurmanec - Brezovica Petrovska 17|146|Spare
+813355|Survey name: EB81.3; Start address: Brezovica Petrovska 13, 49225, Brezovica Petrovska; GPS: 46.1879295,15.825216400000045|HR04U3||Đurmanec - Brezovica Petrovska 13|146|Spare
+813356|Survey name: EB81.3; Start address: Brezovica Petrovska 28, 49225, Brezovica Petrovska; GPS: 46.1875457,15.826206500000012|HR04U3||Đurmanec - Brezovica Petrovska 28|146|Spare
+813357|Survey name: EB81.3; Start address: Ulica Ivana Gorana Kovačića 71, 42240, Ivanec; GPS: 46.2261392,16.115631200000053|HR04U2||Ivanec - Ulica Ivana Gorana Kovačića 71|147|Spare
+813358|Survey name: EB81.3; Start address: Ulica Vladimira Nazora 89, 42240, Ivanec; GPS: 46.2326469,16.11942959999999|HR04U2||Ivanec - Ulica Vladimira Nazora 89|147|Spare
+813359|Survey name: EB81.3; Start address: Gornja Voća 209, Cestica; GPS: 46.33809429999999,16.069410199999993|HR04U3||Donja Voća - Gornja Voća 209|148|Spare
+813360|Survey name: EB81.3; Start address: Selci Križovljanski 112, 42208, Selci Križovljanski; GPS: 46.3447287,16.08128959999999|HR04U3||Donja Voća - Selci Križovljanski 112|148|Spare
+813361|Survey name: EB81.3; Start address: Drenovec 14, 2283 Zavrč; GPS: 46.3403406,16.07025269999997|HR04U3||Donja Voća - Drenovec 14|148|Spare
+813362|Survey name: EB81.3; Start address: Klenovnik 199, 42244, Klenovnik; GPS: 46.2721429,16.073477799999978|HR04U3||Klenovnik - Klenovnik 199|149|Spare
+813363|Survey name: EB81.3; Start address: Klenovnik 150, 42244, Klenovnik; GPS: 46.2773172,16.077391600000055|HR04U3||Klenovnik - Klenovnik 150|149|Spare
+813364|Survey name: EB81.3; Start address: Klenovnik 192, 42244, Klenovnik; GPS: 46.27678280000001,16.074280899999962|HR04U3||Klenovnik - Klenovnik 192|149|Spare
+813365|Survey name: EB81.3; Start address: Ulica Krušec Rudolfa 23, 42232, Vrbanovec; GPS: 46.2661205,16.519210499999986|HR04U3||Martijanec - Ulica Krušec Rudolfa 23|150|Spare
+813366|Survey name: EB81.3; Start address: Ulica Krušec Rudolfa 67-75, 42232, Vrbanovec; GPS: 46.2653344,16.524186999999984|HR04U3||Martijanec - Ulica Krušec Rudolfa 67-75|150|Spare
+813367|Survey name: EB81.3; Start address: Ulica Krušec Rudolfa 93, 42232, Vrbanovec; GPS: 46.2651997,16.52647419999994|HR04U3||Martijanec - Ulica Krušec Rudolfa 93|150|Spare
+813368|Survey name: EB81.3; Start address: Ulica Stjepana Radića 36, 42214, Beletinec; GPS: 46.22016869999999,16.309134800000038|HR04U2||Sveti Ilija - Ulica Stjepana Radića 36|151|Spare
+813369|Survey name: EB81.3; Start address: Kružna ulica 12, 42214, Beletinec; GPS: 46.2231798,16.30926169999998|HR04U2||Sveti Ilija - Kružna ulica 12|151|Spare
+813370|Survey name: EB81.3; Start address: Ulica Braće Radić 10, 42205, Vidovec; GPS: 46.2463956,16.23709740000004|HR04U2||Vidovec - Ulica Braće Radić 10|152|Spare
+813371|Survey name: EB81.3; Start address: Radnička ulica 19, 42242, Tužno; GPS: 46.2520773,16.239391100000034|HR04U2||Vidovec - Radnička ulica 19|152|Spare
+813372|Survey name: EB81.3; Start address: Ludbreška ulica 11, 42202, Štefanec Bartolovečki; GPS: 46.3027324,16.45877619999999|HR04U2||Trnovec Bartolovečki - Ludbreška ulica 11|153|Spare
+813373|Survey name: EB81.3; Start address: Koprivnička ulica 28, 42202, Šemovec; GPS: 46.3031575,16.465764799999988|HR04U2||Trnovec Bartolovečki - Koprivnička ulica 28|153|Spare
+813374|Survey name: EB81.3; Start address: Selci Križovljanski 204, 42208, Selci Križovljanski; GPS: 46.340991,16.087359500000048|HR04U2||Cestica - Selci Križovljanski 204|154|Spare
+813375|Survey name: EB81.3; Start address: Malo Gradišće 26, 42208, Malo Gradišće; GPS: 46.34263379999999,16.093045399999937|HR04U2||Cestica - Malo Gradišće 26|154|Spare
+813376|Survey name: EB81.3; Start address: Maruševec 45, 42243, Maruševec; GPS: 46.2833129,16.186303899999984|HR04U2||Maruševec - Maruševec 45|155|Spare
+813377|Survey name: EB81.3; Start address: Kapelec 10, 42243, Kapelec; GPS: 46.28791469999999,16.187553200000025|HR04U2||Maruševec - Kapelec 10|155|Spare
+813378|Survey name: EB81.3; Start address: Ulica Pavla Kvakana 30, 48316, Đelekovec; GPS: 46.24612219999999,16.859353800000008|HR04U3||Đelekovec - Ulica Pavla Kvakana 30|156|Spare
+813379|Survey name: EB81.3; Start address: Ulica Mirka Viriusa 18, 48316, Đelekovec; GPS: 46.2517201,16.86090420000005|HR04U3||Đelekovec - Ulica Mirka Viriusa 18|156|Spare
+813380|Survey name: EB81.3; Start address: Ulica Pavla Kvakana 15, 48316, Đelekovec; GPS: 46.2479675,16.861530300000027|HR04U3||Đelekovec - Ulica Pavla Kvakana 15|156|Spare
+813381|Survey name: EB81.3; Start address: ; GPS: 46.10018260740825,17.090520858764645|HR04U3||Novo Virje|157|Spare
+813382|Survey name: EB81.3; Start address: ; GPS: 46.103247542615804,17.093417644500732|HR04U3||Novo Virje|157|Spare
+813383|Survey name: EB81.3; Start address: ; GPS: 46.09995942585953,17.0847487449646|HR04U3||Novo Virje|157|Spare
+813384|Survey name: EB81.3; Start address: ; GPS: 46.07132518308111,16.41679286956787|HR04U3||Sveti Petar Orehovec|159|Spare
+813385|Survey name: EB81.3; Start address: ; GPS: 46.07655754862933,16.418273448944092|HR04U3||Sveti Petar Orehovec|159|Spare
+813386|Survey name: EB81.3; Start address: ; GPS: 46.076207747346054,16.427135467529297|HR04U3||Sveti Petar Orehovec|159|Spare
+813387|Survey name: EB81.3; Start address: Donji Koncovčak 90, 40314, Donji Koncovčak; GPS: 46.4943651,16.368476999999984|HR04U2||Selnica - Donji Koncovčak 90|160|Spare
+813388|Survey name: EB81.3; Start address: Donji Koncovčak 114, 40314, Donji Koncovčak; GPS: 46.4993256,16.372015799999986|HR04U2||Selnica - Donji Koncovčak 114|160|Spare
+813389|Survey name: EB81.3; Start address: Vučetinec 100A, 40311, Vučetinec; GPS: 46.4376826,16.363605000000007|HR04U2||Sveti Juraj na Bregu - Vučetinec 100A|161|Spare
+813390|Survey name: EB81.3; Start address: Vučetinec 106C, 40311, Vučetinec; GPS: 46.4422998,16.36190069999998|HR04U2||Sveti Juraj na Bregu - Vučetinec 106C|161|Spare
+813391|Survey name: EB81.3; Start address: Selska ulica 46, 40318, Novakovec; GPS: 46.4552427,16.56794119999995|HR04U2||Podturen - Selska ulica 46|162|Spare
+813392|Survey name: EB81.3; Start address: Novo naselje 5, 40318, Novakovec; GPS: 46.4585277,16.565726600000062|HR04U2||Podturen - Novo naselje 5|162|Spare
+813393|Survey name: EB81.3; Start address: Ulica Krste Frankopana 24, 43500, Daruvar; GPS: 45.591387,17.228287499999965|HR04U2||Daruvar - Ulica Krste Frankopana 24|163|Spare
+813394|Survey name: EB81.3; Start address: Vinogradska ulica 1, 43500, Daruvar; GPS: 45.5922713,17.234250400000064|HR04U2||Daruvar - Vinogradska ulica 1|163|Spare
+813395|Survey name: EB81.3; Start address: Nova Diklenica 22, 43203, Nova Diklenica; GPS: 45.9721346,16.891489200000024|HR04U3||Kapela - Nova Diklenica 22|164|Spare
+813396|Survey name: EB81.3; Start address: Nova Diklenica 35, 43203, Nova Diklenica; GPS: 45.9752733,16.89240700000005|HR04U3||Kapela - Nova Diklenica 35|164|Spare
+813397|Survey name: EB81.3; Start address: Ćurlovac 67, 43000, Ćurlovac; GPS: 45.9724547,16.902888200000007|HR04U3||Kapela - Ćurlovac 67|164|Spare
+813398|Survey name: EB81.3; Start address: Bedenik 110, 43273, Bedenik; GPS: 45.8260942,17.00770669999997|HR04U3||Velika Pisanica - Bedenik 110|165|Spare
+813399|Survey name: EB81.3; Start address: Bedenik 155, 43273, Bedenik; GPS: 45.8296445,17.016309999999976|HR04U3||Velika Pisanica - Bedenik 155|165|Spare
+813400|Survey name: EB81.3; Start address: Bedenik 135, 43273, Bedenik; GPS: 45.8288789,17.010871500000007|HR04U3||Velika Pisanica - Bedenik 135|165|Spare
+813401|Survey name: EB81.3; Start address: Kolodvorska ulica 13, 43270, Pavlovac; GPS: 45.7167188,17.03455299999996|HR04U3||Veliki Grđevac - Kolodvorska ulica 13|166|Spare
+813402|Survey name: EB81.3; Start address: Ulica kralja Zvonimira 17-19, 43270, Pavlovac; GPS: 45.7166246,17.039258700000005|HR04U3||Veliki Grđevac - Ulica kralja Zvonimira 17-19|166|Spare
+813403|Survey name: EB81.3; Start address: Ulica kralja Zvonimira 8, 43270, Pavlovac; GPS: 45.71635930000001,17.042055900000037|HR04U3||Veliki Grđevac - Ulica kralja Zvonimira 8|166|Spare
+813404|Survey name: EB81.3; Start address: Stošićevo šetalište 17, 33515, Orahovica; GPS: 45.53336179999999,17.882789199999934|HR04U2||Orahovica - Stošićevo šetalište 17|167|Spare
+813405|Survey name: EB81.3; Start address: Stošićevo šetalište 59, 33515, Orahovica; GPS: 45.5361587,17.88494730000002|HR04U2||Orahovica - Stošićevo šetalište 59|167|Spare
+813406|Survey name: EB81.3; Start address: Ulica Petra Preradovića 29, 33405, Pitomača; GPS: 45.948828,17.22807990000001|HR04U2||Pitomača - Ulica Petra Preradovića 29|168|Spare
+813407|Survey name: EB81.3; Start address: Ulica Petra Krešimira IV 8, 33405, Pitomača; GPS: 45.9486204,17.234942000000046|HR04U2||Pitomača - Ulica Petra Krešimira IV 8|168|Spare
+813408|Survey name: EB81.3; Start address: ; GPS: 45.44160039477735,17.669320106506348|HR04U3||Velika|169|Spare
+813409|Survey name: EB81.3; Start address: ; GPS: 45.44663622570334,17.66477108001709|HR04U3||Velika|169|Spare
+813410|Survey name: EB81.3; Start address: ; GPS: 45.44043358356171,17.67166972160339|HR04U3||Velika|169|Spare
+813411|Survey name: EB81.3; Start address: ; GPS: 45.248379930854654,17.208967208862305|HR04U3||Gornji Bogićevci|170|Spare
+813412|Survey name: EB81.3; Start address: ; GPS: 45.25511723005648,17.201950550079346|HR04U3||Gornji Bogićevci|170|Spare
+813413|Survey name: EB81.3; Start address: ; GPS: 45.251582513542566,17.210984230041504|HR04U3||Gornji Bogićevci|170|Spare
+813414|Survey name: EB81.3; Start address: Ulica Vladimira Nazora 2A, 35221, Velika Kopanica; GPS: 45.15650340000001,18.395128|HR04U3||Velika Kopanica - Ulica Vladimira Nazora 2A|171|Spare
+813415|Survey name: EB81.3; Start address: Ulica Vladimira Nazora 76A, 35221, Velika Kopanica; GPS: 45.1619434,18.402754500000015|HR04U3||Velika Kopanica - Ulica Vladimira Nazora 76A|171|Spare
+813416|Survey name: EB81.3; Start address: Ulica Vladimira Nazora 25A, 35221, Velika Kopanica; GPS: 45.1581687,18.399181099999964|HR04U3||Velika Kopanica - Ulica Vladimira Nazora 25A|171|Spare
+813417|Survey name: EB81.3; Start address: Vukovarska ulica 33, 31326, Darda; GPS: 45.6238049,18.70561520000001|HR04U2||Darda - Vukovarska ulica 33|173|Spare
+813418|Survey name: EB81.3; Start address: Ulica Dobriše Cesarića 36, 31326, Mece; GPS: 45.6238176,18.713108899999952|HR04U2||Darda - Ulica Dobriše Cesarića 36|173|Spare
+813419|Survey name: EB81.3; Start address: Ulica Vuka Karadžića 22, 31323, Bolman; GPS: 45.71888089999999,18.51750190000007|HR04U3||Jagodnjak - Ulica Vuka Karadžića 22|174|Spare
+813420|Survey name: EB81.3; Start address: Ulica Save Kovačevića 53, 31323, Bolman; GPS: 45.7218959,18.517777900000056|HR04U3||Jagodnjak - Ulica Save Kovačevića 53|174|Spare
+813421|Survey name: EB81.3; Start address: Ulica Petra Drapšina 9, 31323, Bolman; GPS: 45.72136769999999,18.515265399999976|HR04U3||Jagodnjak - Ulica Petra Drapšina 9|174|Spare
+813422|Survey name: EB81.3; Start address: ; GPS: 45.54633426246897,18.2802414894104|HR04U3||Koška|175|Spare
+813423|Survey name: EB81.3; Start address: ; GPS: 45.545162105281214,18.287580013275146|HR04U3||Koška|175|Spare
+813424|Survey name: EB81.3; Start address: kolodvorska 16, 31224, Koška; GPS: 45.54152209999999,18.298381199999994|HR04U3||Koška - kolodvorska 16|175|Spare
+813425|Survey name: EB81.3; Start address: ; GPS: 45.68255839413013,18.37364673614502|HR04U2||Valpovo|176|Spare
+813426|Survey name: EB81.3; Start address: ; GPS: 45.68375016914897,18.372809886932373|HR04U2||Valpovo|176|Spare
+813427|Survey name: EB81.3; Start address: Ulica bana Ivana Mažuranića 13, 32276, Babina Greda; GPS: 45.116998,18.538966699999946|HR04U2||Babina Greda - Ulica bana Ivana Mažuranića 13|177|Spare
+813428|Survey name: EB81.3; Start address: Ulica Vladimira Nazora 71, 32276, Babina Greda; GPS: 45.1161999,18.544709099999977|HR04U2||Babina Greda - Ulica Vladimira Nazora 71|177|Spare
+813429|Survey name: EB81.3; Start address: Ulica Josipa Jurja Strossmayera 49, 32245, Nijemci; GPS: 45.137058,19.041440400000056|HR04U3||Nijemci - Ulica Josipa Jurja Strossmayera 49|178|Spare
+813430|Survey name: EB81.3; Start address: Ulica Antuna Gustava Matoša 10, 32245, Nijemci; GPS: 45.1432827,19.040684599999963|HR04U3||Nijemci - Ulica Antuna Gustava Matoša 10|178|Spare
+813431|Survey name: EB81.3; Start address: Ulica Josipa Jurja Strossmayera 8, 32245, Nijemci; GPS: 45.1393447,19.03688199999999|HR04U3||Nijemci - Ulica Josipa Jurja Strossmayera 8|178|Spare
+813432|Survey name: EB81.3; Start address: Varošćica ulica 42, 32252, Otok; GPS: 45.1431524,18.885839199999964|HR04U2||Otok - Varošćica ulica 42|180|Spare
+813433|Survey name: EB81.3; Start address: Ulica kralja Držislava 74, 32252, Otok; GPS: 45.1437168,18.89115860000004|HR04U2||Otok - Ulica kralja Držislava 74|180|Spare
+813434|Survey name: EB81.3; Start address: Ulica Vladimira Nazora 51, 32256, Strošinci; GPS: 44.9151218,19.06536619999997|HR04U2||Vrbanja - Ulica Vladimira Nazora 51|183|Spare
+813435|Survey name: EB81.3; Start address: Ulica Vladimira Nazora 8, 32256, Strošinci; GPS: 44.9139098,19.070023600000013|HR04U2||Vrbanja - Ulica Vladimira Nazora 8|183|Spare
+813436|Survey name: EB81.3; Start address: Ulica Slavka Kolara 32A, 47250, Duga Resa; GPS: 45.4447538,15.495526199999972|HR04U2||Duga Resa - Ulica Slavka Kolara 32A|184|Spare
+813437|Survey name: EB81.3; Start address: Jozefinska ulica 48B, 47250, Duga Resa; GPS: 45.4467952,15.502273100000025|HR04U2||Duga Resa - Jozefinska ulica 48B|184|Spare
+813438|Survey name: EB81.3; Start address: ; GPS: 45.192335746094855,15.790164470672607|HR04U3||Vojnić|185|Spare
+813439|Survey name: EB81.3; Start address: ; GPS: 45.1992913703412,15.789005756378174|HR04U3||Vojnić|185|Spare
+813440|Survey name: EB81.3; Start address: ; GPS: 45.19298598177541,15.797502994537352|HR04U3||Vojnić|185|Spare
+813441|Survey name: EB81.3; Start address: Ulica Ivice Hrnčevića, 44250, Petrinja; GPS: 45.4361566,16.2639322|HR04U2||Petrinja - Ulica Ivice Hrnčevića|187|Spare
+813442|Survey name: EB81.3; Start address: Ulica Josipa Nemeca 30, 44250, Petrinja; GPS: 45.4362571,16.27079530000003|HR04U2||Petrinja - Ulica Josipa Nemeca 30|187|Spare
+813443|Survey name: EB81.3; Start address: ; GPS: 45.64302805580413,16.342313289642334|HR04U3||Martinska Ves|188|Spare
+813444|Survey name: EB81.3; Start address: Savska
