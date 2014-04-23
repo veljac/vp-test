@@ -20,14 +20,14 @@ namespace dodaj
             {
                 InitializeNfield(kernel);
 
-                const string serverUrl = "http://api.nfieldmr.com/v1";
+                const string serverUrl = "http://api.nfieldbeta.com/v1";
 
                 // First step is to get an INfieldConnection which provides services used for data access and manipulation. 
                 INfieldConnection connection = NfieldConnectionFactory.Create(new Uri(serverUrl));
 
                 // User must sign in to the Nfield server with the appropriate credentials prior to using any of the services.
 
-                connection.SignInAsync("hendal", "veljko", "Klagant61").Wait();
+                connection.SignInAsync("hendal beta", "veljko", "Klagant61").Wait();
 
                 // Request the Interviewers service to manage interviewers.
                 INfieldInterviewersService interviewersService = connection.GetService<INfieldInterviewersService>();
