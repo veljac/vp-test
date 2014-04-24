@@ -29,7 +29,7 @@ STARTNE TOČKE:
 813028|Survey name: EB81.3; Start address: ; GPS: 44.26019193095791,15.120824575424192|HR03U2||Privlaka|11|Regular
 813029|Survey name: EB81.3; Start address: ; GPS: 44.24071038735447,15.144760608673094|HR03U2||Privlaka|11|Regular
 813030|Survey name: EB81.3; Start address: ; GPS: 44.245767755264055,15.153644084930418|HR03U2||Privlaka|11|Regular
-813031|Survey name: EB81.3; Start address: Ulica Nikole Tesle 7, 23000, Zadar; GPS: 44.1213173,15.235273099999972|HR03U1|88a39030-c2f0-40b4-9c4e-74abe9bce433|Zadar - Ulica Nikole Tesle 7|12|Regular
+813031|Survey name: EB81.3; Start address: Ulica Nikole Tesle 7, 23000, Zadar; GPS: 44.1213173,15.235273099999972|HR03U1|88a39030-c2f0-40b4-9c4e-74abe9bce433|Zadar - Ulica Nikole Tesle 8|12|Regular
 813032|Survey name: EB81.3; Start address: Ulica Šime Starčevića 2, 23000, Zadar; GPS: 44.1268906,15.245873500000016|HR03U1||Zadar - Ulica Šime Starčevića 2|12|Regular
 813033|Survey name: EB81.3; Start address: Privlačka ulica 16, 23000, Zadar; GPS: 44.1234051,15.245275399999968|HR03U1||Zadar - Privlačka ulica 16|12|Regular
 813034|Survey name: EB81.3; Start address: Ulica Ljudevita Gaja 13, 23000, Zadar; GPS: 44.1280226,15.237914700000033|HR03U1||Zadar - Ulica Ljudevita Gaja 13|12|Regular
@@ -90,18 +90,18 @@ STARTNE TOČKE:
 813089|Survey name: EB81.3; Start address: ; GPS: 43.00919762791908,17.47849702835083|HR03U2||Opuzen|33|Regular
 813090|Survey name: EB81.3; Start address: ; GPS: 42.68986451600478,18.034411668777466|HR03U2||Dubrovnik|34|Regular
 813091|Survey name: EB81.3; Start address: ; GPS: 42.69118936082351,18.038692474365234|HR03U2||Dubrovnik|34|Regular
-813092|Survey name: EB81.3; Start address: Ulica Milana Rešetara 36-38, 10000, Zagreb; GPS: 45.7990563,15.891259499999932|HR04U1||Gornji Grad Medveščak - Ulica Milana Rešetara 36-38|35|Regular
-813093|Survey name: EB81.3; Start address: Ulica Jurja Barakovića 14, 10000, Zagreb; GPS: 45.8033091,15.899847799999975|HR04U1||Gornji Grad Medveščak - Ulica Jurja Barakovića 14|35|Regular
-813094|Survey name: EB81.3; Start address: Ulica Slavka Batušića 25, 10000, Zagreb; GPS: 45.7985054,15.899380299999961|HR04U1||Gornji Grad Medveščak - Ulica Slavka Batušića 25|35|Regular
-813095|Survey name: EB81.3; Start address: Kotarnica ulica 14, 10000, Zagreb; GPS: 45.8042072,15.89341939999997|HR04U1||Gornji Grad Medveščak - Kotarnica ulica 14|35|Regular
-813096|Survey name: EB81.3; Start address: Hrnetička ulica 22, 10000, Zagreb; GPS: 45.80602140000001,15.891930900000034|HR04U1||Donja Dubrava - Hrnetička ulica 22|36|Regular
-813097|Survey name: EB81.3; Start address: Zubovačka ulica 4, 10000, Zagreb; GPS: 45.8115989,15.8985768|HR04U1||Donja Dubrava - Zubovačka ulica 4|36|Regular
-813098|Survey name: EB81.3; Start address: Malešnica ulica 27, 10000, Zagreb; GPS: 45.8081366,15.897951599999942|HR04U1||Donja Dubrava - Malešnica ulica 27|36|Regular
-813099|Survey name: EB81.3; Start address: Ulica Malešnica III 6, 10000, Zagreb; GPS: 45.8109282,15.894210199999975|HR04U1||Donja Dubrava - Ulica Malešnica III 6|36|Regular
-813100|Survey name: EB81.3; Start address: Ulica Donje Vrapče 45, 10000, Zagreb; GPS: 45.8083901,15.903529299999946|HR04U1||Črnomerec - Ulica Donje Vrapče 45|37|Regular
-813101|Survey name: EB81.3; Start address: Debanićeva ulica 1, 10000, Zagreb; GPS: 45.8128172,15.909260000000017|HR04U1||Črnomerec - Debanićeva ulica 1|37|Regular
-813102|Survey name: EB81.3; Start address: Majurečki put 22, 10000, Zagreb; GPS: 45.80837529999999,15.911640799999986|HR04U1||Črnomerec - Majurečki put 22|37|Regular
-813103|Survey name: EB81.3; Start address: Domagovićka ulica 1, 10000, Zagreb; GPS: 45.81022180000001,15.904807900000037|HR04U1||Črnomerec - Domagovićka ulica 1|37|Regular
+813092|Survey name: EB81.3; Start address: Ulica Milana Rešetara 36-38, 10000, Zagreb; GPS: 45.7990563,15.891259499999932|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Gornji Grad Medveščak - Ulica Milana Rešetara 36-38|35|Regular
+813093|Survey name: EB81.3; Start address: Ulica Jurja Barakovića 14, 10000, Zagreb; GPS: 45.8033091,15.899847799999975|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Gornji Grad Medveščak - Ulica Jurja Barakovića 14|35|Regular
+813094|Survey name: EB81.3; Start address: Ulica Slavka Batušića 25, 10000, Zagreb; GPS: 45.7985054,15.899380299999961|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Gornji Grad Medveščak - Ulica Slavka Batušića 25|35|Regular
+813095|Survey name: EB81.3; Start address: Kotarnica ulica 14, 10000, Zagreb; GPS: 45.8042072,15.89341939999997|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Gornji Grad Medveščak - Kotarnica ulica 14|35|Regular
+813096|Survey name: EB81.3; Start address: Hrnetička ulica 22, 10000, Zagreb; GPS: 45.80602140000001,15.891930900000034|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Donja Dubrava - Hrnetička ulica 22|36|Regular
+813097|Survey name: EB81.3; Start address: Zubovačka ulica 4, 10000, Zagreb; GPS: 45.8115989,15.8985768|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Donja Dubrava - Zubovačka ulica 4|36|Regular
+813098|Survey name: EB81.3; Start address: Malešnica ulica 27, 10000, Zagreb; GPS: 45.8081366,15.897951599999942|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Donja Dubrava - Malešnica ulica 27|36|Regular
+813099|Survey name: EB81.3; Start address: Ulica Malešnica III 6, 10000, Zagreb; GPS: 45.8109282,15.894210199999975|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Donja Dubrava - Ulica Malešnica III 6|36|Regular
+813100|Survey name: EB81.3; Start address: Ulica Donje Vrapče 45, 10000, Zagreb; GPS: 45.8083901,15.903529299999946|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Črnomerec - Ulica Donje Vrapče 45|37|Regular
+813101|Survey name: EB81.3; Start address: Debanićeva ulica 1, 10000, Zagreb; GPS: 45.8128172,15.909260000000017|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Črnomerec - Debanićeva ulica 1|37|Regular
+813102|Survey name: EB81.3; Start address: Majurečki put 22, 10000, Zagreb; GPS: 45.80837529999999,15.911640799999986|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Črnomerec - Majurečki put 22|37|Regular
+813103|Survey name: EB81.3; Start address: Domagovićka ulica 1, 10000, Zagreb; GPS: 45.81022180000001,15.904807900000037|HR04U1|17122e5e-dd7d-4467-9ef5-d02b38c78b8d|Črnomerec - Domagovićka ulica 1|37|Regular
 813104|Survey name: EB81.3; Start address: Demerje, 10251, Demerje; GPS: 45.7293326,15.886801300000002|HR04U1||Črnomerec - Demerje|38|Regular
 813105|Survey name: EB81.3; Start address: Demerje, 10251, Demerje; GPS: 45.7303862,15.88521609999998|HR04U1||Črnomerec - Demerje|38|Regular
 813106|Survey name: EB81.3; Start address: Demerje, 10251, Demerje; GPS: 45.7284665,15.879388100000028|HR04U1||Črnomerec - Demerje|38|Regular
@@ -439,7 +439,4 @@ STARTNE TOČKE:
 813438|Survey name: EB81.3; Start address: ; GPS: 45.192335746094855,15.790164470672607|HR04U3||Vojnić|185|Spare
 813439|Survey name: EB81.3; Start address: ; GPS: 45.1992913703412,15.789005756378174|HR04U3||Vojnić|185|Spare
 813440|Survey name: EB81.3; Start address: ; GPS: 45.19298598177541,15.797502994537352|HR04U3||Vojnić|185|Spare
-813441|Survey name: EB81.3; Start address: Ulica Ivice Hrnčevića, 44250, Petrinja; GPS: 45.4361566,16.2639322|HR04U2||Petrinja - Ulica Ivice Hrnčevića|187|Spare
-813442|Survey name: EB81.3; Start address: Ulica Josipa Nemeca 30, 44250, Petrinja; GPS: 45.4362571,16.27079530000003|HR04U2||Petrinja - Ulica Josipa Nemeca 30|187|Spare
-813443|Survey name: EB81.3; Start address: ; GPS: 45.64302805580413,16.342313289642334|HR04U3||Martinska Ves|188|Spare
-813444|Survey name: EB81.3; Start address: Savska
+813441|Survey name: EB81.3; Start address: Ulica Ivice Hrnčevića, 4425
